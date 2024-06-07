@@ -5,7 +5,7 @@
 ## 配置
 
 - `Framework` Dotnet Core 6.0
-- `IDE` Jetbrain Rider [带自动运行测试脚本([.run](.run/))]
+- `IDE` Jetbrains Rider [带自动运行测试脚本([.run](.run/))]
 
 ## 编译
 
@@ -14,4 +14,7 @@ dotnet restore #还原依赖
 dotnet build   #编译DLL
 ```
 
+## 鸣谢
+
+感谢`Npa`团队和他们的`MiniAirways`游戏！
 
