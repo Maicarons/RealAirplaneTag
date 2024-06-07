@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="build to plugins folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/../../../Program Files (x86)/Steam/steamapps/common/Mini Airways Playtest/BepInEx/plugins" target_framework="netstandard2.1" uuid_high="-6778280053473662523" uuid_low="-7015837961253022091" />
+    <method v="2" />
+  </configuration>
+</component>
