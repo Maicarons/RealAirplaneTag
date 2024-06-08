@@ -1,7 +1,3494 @@
 {
-  "DH8D": {
-    "name": "Dash 8 Q400",
-    "WTC": "M",
-    "Manufacturer": "BOMBARDIER"
+  "A10":{
+    "Code": "A10",
+    "Manufacturer": "FAIRCHILD",
+    "Name": "Fairchild A10",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Medium"
+  },
+  "A124":{
+    "Code": "A124",
+    "Manufacturer": "ANTONOV",
+    "Name": "Antonov AN-124 Ruslan",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "151",
+    "WTC": "Heavy"
+  },
+  "A19N":{
+    "Code": "A19N",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A319 Neo",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+  "A20N":{
+    "Code": "A20N",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A320 Neo",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Medium"
+  },
+ "A21N":{
+    "Code": "A21N",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A321 Neo",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "136",
+    "WTC": "Medium"
+  },
+ "A306":{
+    "Code": "A306",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A300 B4-600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Heavy"
+  },
+ "A30B":{
+    "Code": "A30B",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A300-B2",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Heavy"
+  },
+ "A310":{
+    "Code": "A310",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A310",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "139",
+    "WTC": "Heavy"
+  },
+ "A318":{
+    "Code": "A318",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A318",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "121",
+    "WTC": "Medium"
+  },
+ "A319":{
+    "Code": "A319",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A319",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "A320":{
+    "Code": "A320",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A320",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "136",
+    "WTC": "Medium"
+  },
+ "A321":{
+    "Code": "A321",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A321",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "142",
+    "WTC": "Medium"
+  },
+ "A332":{
+    "Code": "A332",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A330-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "136",
+    "WTC": "Heavy"
+  },
+ "A333":{
+    "Code": "A333",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A330-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Heavy"
+  },
+ "A337":{
+    "Code": "A337",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A330-700 - Beluga XL",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Heavy"
+  },
+ "A338":{
+    "Code": "A338",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A330-800",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "A339":{
+    "Code": "A339",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A330-900",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "A342":{
+    "Code": "A342",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A340-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "145",
+    "WTC": "Heavy"
+  },
+ "A343":{
+    "Code": "A343",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A340-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "145",
+    "WTC": "Heavy"
+  },
+ "A345":{
+    "Code": "A345",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A340-500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "146",
+    "WTC": "Heavy"
+  },
+ "A346":{
+    "Code": "A346",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A340-600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "153",
+    "WTC": "Heavy"
+  },
+ "A359":{
+    "Code": "A359",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus 350-900",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "A35K":{
+    "Code": "A35K",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A350-1000 XWB",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "154",
+    "WTC": "Heavy"
+  },
+ "A388":{
+    "Code": "A388",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A380-800",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "138",
+    "WTC": "Super"
+  },
+ "A400":{
+    "Code": "A400",
+    "Manufacturer": "AIRBUS",
+    "Name": "Airbus A400M Atlas",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "130",
+    "WTC": "Heavy"
+  },
+ "A5":{
+    "Code": "A5",
+    "Manufacturer": "ICON",
+    "Name": "Icon A-5",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "59",
+    "WTC": "Light"
+  },
+ "AA1":{
+    "Code": "AA1",
+    "Manufacturer": "GRUMMAN AMERICAN",
+    "Name": "Grumman American AA1",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "69",
+    "WTC": "Light"
+  },
+ "AA5":{
+    "Code": "AA5",
+    "Manufacturer": "GRUMMAN AMERICAN",
+    "Name": "Grumman American AA5",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "69",
+    "WTC": "Light"
+  },
+ "AC11":{
+    "Code": "AC11",
+    "Manufacturer": "ROCKWELL",
+    "Name": "Rockwell Commander 112",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "70",
+    "WTC": "Light"
+  },
+ "AC50":{
+    "Code": "AC50",
+    "Manufacturer": "AERO",
+    "Name": "Aero Commander 500",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "AC56":{
+    "Code": "AC56",
+    "Manufacturer": "AERO",
+    "Name": "Aero Commander 560",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Light"
+  },
+ "AC68":{
+    "Code": "AC68",
+    "Manufacturer": "AERO",
+    "Name": "Aero Commander 680FP",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Light"
+  },
+ "AC6L":{
+    "Code": "AC6L",
+    "Manufacturer": "AERO",
+    "Name": "Aero Commander 680FL",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "98",
+    "WTC": "Light"
+  },
+ "AC80":{
+    "Code": "AC80",
+    "Manufacturer": "ROCKWELL",
+    "Name": "Rockwell Commander Turbo 680",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Light"
+  },
+ "AC90":{
+    "Code": "AC90",
+    "Manufacturer": "GULFSTREAM AEROSPACE-ROCKWELL",
+    "Name": "Gulfstream 690 Commander 690",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Light"
+  },
+ "AC95":{
+    "Code": "AC95",
+    "Manufacturer": "GULFSTREAM AEROSPACE-ROCKWELL",
+    "Name": "Gulfstream Jetprop Commander 1000",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "AEST":{
+    "Code": "AEST",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Aero Star",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "96",
+    "WTC": "Light"
+  },
+ "AN12":{
+    "Code": "AN12",
+    "Manufacturer": "ANTONOV",
+    "Name": "Antonov AN-12",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "127",
+    "WTC": "Medium"
+  },
+ "AN72":{
+    "Code": "AN72",
+    "Manufacturer": "ANTONOV",
+    "Name": "Antonov AN-74-100/200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Medium"
+  },
+ "AR11":{
+    "Code": "AR11",
+    "Manufacturer": "AERONCA",
+    "Name": "Aeronca 11 Chief",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "49",
+    "WTC": "Light"
+  },
+ "ASTR":{
+    "Code": "ASTR",
+    "Manufacturer": "IAI",
+    "Name": "IAI Astra 1125",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "120",
+    "WTC": "Medium"
+  },
+ "AT3T":{
+    "Code": "AT3T",
+    "Manufacturer": "AIR TRACTOR",
+    "Name": "Air Tractor AT-402",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "74",
+    "WTC": "Light"
+  },
+ "AT43":{
+    "Code": "AT43",
+    "Manufacturer": "ATR",
+    "Name": "ATR 42-300/320",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "AT44":{
+    "Code": "AT44",
+    "Manufacturer": "ATR",
+    "Name": "ATR-42-400",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "AT45":{
+    "Code": "AT45",
+    "Manufacturer": "ATR",
+    "Name": "ATR 42-500",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "AT46":{
+    "Code": "AT46",
+    "Manufacturer": "ATR",
+    "Name": "ATR 42-600",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "AT5T":{
+    "Code": "AT5T",
+    "Manufacturer": "AIR TRACTOR",
+    "Name": "Air Tractor AT-503",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "AT6T":{
+    "Code": "AT6T",
+    "Manufacturer": "AIR TRACTOR",
+    "Name": "AT-602 Air Tractor",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "AT72":{
+    "Code": "AT72",
+    "Manufacturer": "ATR",
+    "Name": "ATR-72-201/202",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "114",
+    "WTC": "Medium"
+  },
+ "AT73":{
+    "Code": "AT73",
+    "Manufacturer": "ATR",
+    "Name": "ATR 72-211/212",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "109",
+    "WTC": "Medium"
+  },
+ "AT75":{
+    "Code": "AT75",
+    "Manufacturer": "ATR",
+    "Name": "ATR-72-500",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "120",
+    "WTC": "Medium"
+  },
+ "AT76":{
+    "Code": "AT76",
+    "Manufacturer": "ATR",
+    "Name": "ATR 72-600/212A",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "113",
+    "WTC": "Medium"
+  },
+ "AT8T":{
+    "Code": "AT8T",
+    "Manufacturer": "AIR TRACTOR",
+    "Name": "Air Tractor AT-802",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "103",
+    "WTC": "Light/Medium"
+  },
+ "B18T":{
+    "Code": "B18T",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 18 (Turbo)",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "87",
+    "WTC": "Light"
+  },
+ "B190":{
+    "Code": "B190",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 1900/C-12J",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "121",
+    "WTC": "Medium"
+  },
+ "B2":{
+    "Code": "B2",
+    "Manufacturer": "NORTHROP",
+    "Name": "Northrop B-2 Spirit",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "B350":{
+    "Code": "B350",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Super King Air 350",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light/Medium"
+  },
+ "B36T":{
+    "Code": "B36T",
+    "Manufacturer": "ALLISON-BEECH",
+    "Name": "Allison 36 Turbine Bonanza",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "B37M":{
+    "Code": "B37M",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737 MAX 7",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "145",
+    "WTC": "Medium"
+  },
+ "B38M":{
+    "Code": "B38M",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737 MAX 8",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "145",
+    "WTC": "Medium"
+  },
+ "B39M":{
+    "Code": "B39M",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737 MAX 9",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "150",
+    "WTC": "Medium"
+  },
+ "B461":{
+    "Code": "B461",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe 146-100",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "121",
+    "WTC": "Medium"
+  },
+ "B462":{
+    "Code": "B462",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe 146 -200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "122",
+    "WTC": "Medium"
+  },
+ "B52":{
+    "Code": "B52",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing B-52 Stratofortress",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "8",
+    "Approach_Speed_knot": "141",
+    "WTC": "Heavy"
+  },
+ "B703":{
+    "Code": "B703",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 707-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "128",
+    "WTC": "Heavy"
+  },
+ "B712":{
+    "Code": "B712",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 717-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "139",
+    "WTC": "Medium"
+  },
+ "B721":{
+    "Code": "B721",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 727-100 (C-22)",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "B722":{
+    "Code": "B722",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 727-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "133",
+    "WTC": "Medium"
+  },
+ "B732":{
+    "Code": "B732",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-200/VC96",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "129",
+    "WTC": "Medium"
+  },
+ "B733":{
+    "Code": "B733",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "B734":{
+    "Code": "B734",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-400",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "139",
+    "WTC": "Medium"
+  },
+ "B735":{
+    "Code": "B735",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "B736":{
+    "Code": "B736",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "B737":{
+    "Code": "B737",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-700",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "B738":{
+    "Code": "B738",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-800",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "144",
+    "WTC": "Medium"
+  },
+ "B739":{
+    "Code": "B739",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 737-900",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "149",
+    "WTC": "Medium"
+  },
+ "B741":{
+    "Code": "B741",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-100",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "144",
+    "WTC": "Heavy"
+  },
+ "B742":{
+    "Code": "B742",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "150",
+    "WTC": "Heavy"
+  },
+ "B743":{
+    "Code": "B743",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "142",
+    "WTC": "Heavy"
+  },
+ "B744":{
+    "Code": "B744",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-400",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "157",
+    "WTC": "Heavy"
+  },
+ "B748":{
+    "Code": "B748",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-8",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "159",
+    "WTC": "Heavy"
+  },
+ "B752":{
+    "Code": "B752",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 757-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Medium"
+  },
+ "B753":{
+    "Code": "B753",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 757-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "143",
+    "WTC": "Medium"
+  },
+ "B762":{
+    "Code": "B762",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 767-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Heavy"
+  },
+ "B763":{
+    "Code": "B763",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 767-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "B764":{
+    "Code": "B764",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 767-400",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "150",
+    "WTC": "Heavy"
+  },
+ "B772":{
+    "Code": "B772",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "B773":{
+    "Code": "B773",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "149",
+    "WTC": "Heavy"
+  },
+ "B778":{
+    "Code": "B778",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-8 ",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "152",
+    "WTC": "Heavy"
+  },
+ "B779":{
+    "Code": "B779",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-9",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "154",
+    "WTC": "Heavy"
+  },
+ "B77L":{
+    "Code": "B77L",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-200LRF/LR",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Heavy"
+  },
+ "B77W":{
+    "Code": "B77W",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 777-300ER",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "149",
+    "WTC": "Heavy"
+  },
+ "B788":{
+    "Code": "B788",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 787-8 BBJ/Dreamliner",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "144",
+    "WTC": "Heavy"
+  },
+ "B789":{
+    "Code": "B789",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 787-9 Dreamliner",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "144",
+    "WTC": "Heavy"
+  },
+ "B78X":{
+    "Code": "B78X",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 787-10 Dreamliner",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "149",
+    "WTC": "Heavy"
+  },
+ "BA11":{
+    "Code": "BA11",
+    "Manufacturer": "BAC",
+    "Name": "BAC 111 One-Eleven",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "133",
+    "WTC": "Medium"
+  },
+ "BCS1":{
+    "Code": "BCS1",
+    "Manufacturer": "AIRBUS-BOMBARDIER",
+    "Name": "Airbus A220-100",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "BCS3":{
+    "Code": "BCS3",
+    "Manufacturer": "AIRBUS-BOMBARDIER",
+    "Name": "Airbus A220-300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "BE10":{
+    "Code": "BE10",
+    "Manufacturer": "BEECH",
+    "Name": "Beech King Air 100",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "111",
+    "WTC": "Light"
+  },
+ "BE18":{
+    "Code": "BE18",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 18",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "87",
+    "WTC": "Light"
+  },
+ "BE19":{
+    "Code": "BE19",
+    "Manufacturer": "BEECH",
+    "Name": "Beech B19 Musketeer",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "65",
+    "WTC": "Light"
+  },
+ "BE20":{
+    "Code": "BE20",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 200 Super King",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light/Medium"
+  },
+ "BE23":{
+    "Code": "BE23",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 23 Sundowner",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "70",
+    "WTC": "Light"
+  },
+ "BE24":{
+    "Code": "BE24",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 24 Sierra",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "BE30":{
+    "Code": "BE30",
+    "Manufacturer": "RAYTHEON-BEECH",
+    "Name": "Raytheon 300 Super King Air",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light"
+  },
+ "BE33":{
+    "Code": "BE33",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Bonanza 33",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "69",
+    "WTC": "Light"
+  },
+ "BE35":{
+    "Code": "BE35",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Bonanza 35",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "72",
+    "WTC": "Light"
+  },
+ "BE36":{
+    "Code": "BE36",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Bonanza 36",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "BE40":{
+    "Code": "BE40",
+    "Manufacturer": "RAYTHEON-BEECH-HAWKER",
+    "Name": "Raytheon/Beech Beechjet 400/T-1 Jayhawk",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "114",
+    "WTC": "Medium"
+  },
+ "BE50":{
+    "Code": "BE50",
+    "Manufacturer": "BEECH",
+    "Name": "Beechcraft 50 Twin Bonanza",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "80",
+    "WTC": "Light"
+  },
+ "BE55":{
+    "Code": "BE55",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Baron 55",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "95",
+    "WTC": "Light"
+  },
+ "BE58":{
+    "Code": "BE58",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 58 Baron",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "95",
+    "WTC": "Light"
+  },
+ "BE60":{
+    "Code": "BE60",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 60 Duke",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "98",
+    "WTC": "Light"
+  },
+ "BE65":{
+    "Code": "BE65",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 65 Queen Air",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "BE70":{
+    "Code": "BE70",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 70 Queen Air",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "BE76":{
+    "Code": "BE76",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 76 Duchess",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "76",
+    "WTC": "Light"
+  },
+ "BE77":{
+    "Code": "BE77",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 77 Skipper",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "63",
+    "WTC": "Light"
+  },
+ "BE80":{
+    "Code": "BE80",
+    "Manufacturer": "BEECH",
+    "Name": "Beech BE-80 Queen Air",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "BE95":{
+    "Code": "BE95",
+    "Manufacturer": "BEECH",
+    "Name": "Beechcraft 95 Travel Air",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "79",
+    "WTC": "Light"
+  },
+ "BE99":{
+    "Code": "BE99",
+    "Manufacturer": "BEECH",
+    "Name": "Beech Airliner 99",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light"
+  },
+ "BE9L":{
+    "Code": "BE9L",
+    "Manufacturer": "BEECH",
+    "Name": "Beech King Air 90",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "BE9T":{
+    "Code": "BE9T",
+    "Manufacturer": "BEECH",
+    "Name": "Beech F90 King Air",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "108",
+    "WTC": "Light"
+  },
+ "BL17":{
+    "Code": "BL17",
+    "Manufacturer": "BELLANCA",
+    "Name": "Bellanca Viking",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "79",
+    "WTC": "Light"
+  },
+ "BL8":{
+    "Code": "BL8",
+    "Manufacturer": "BELLANCA",
+    "Name": "Bellanca 8 Scout",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "BLCF":{
+    "Code": "BLCF",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 747-400LCF Dreamlifter",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "155",
+    "WTC": "Heavy"
+  },
+ "BT36":{
+    "Code": "BT36",
+    "Manufacturer": "BEECH",
+    "Name": "Beech 36 Bonanza",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "C120":{
+    "Code": "C120",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 120",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "52",
+    "WTC": "Light"
+  },
+ "C130":{
+    "Code": "C130",
+    "Manufacturer": "LOCKHEED",
+    "Name": "Lockheed 130 Hercules",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "117",
+    "WTC": "Medium"
+  },
+ "C140":{
+    "Code": "C140",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 140",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "52",
+    "WTC": "Light"
+  },
+ "C150":{
+    "Code": "C150",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 150",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "55",
+    "WTC": "Light"
+  },
+ "C152":{
+    "Code": "C152",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 152",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "C160":{
+    "Code": "C160",
+    "Manufacturer": "TRANSALL",
+    "Name": "Transall C-160",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "C162":{
+    "Code": "C162",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 162 Skycatcher",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "51",
+    "WTC": "Light"
+  },
+ "C17":{
+    "Code": "C17",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing Globemaster 3",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "115",
+    "WTC": "Heavy"
+  },
+ "C170":{
+    "Code": "C170",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 170",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "59",
+    "WTC": "Light"
+  },
+ "C172":{
+    "Code": "C172",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Skyhawk 172/Cutlass",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "62",
+    "WTC": "Light"
+  },
+ "C175":{
+    "Code": "C175",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 175",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "C177":{
+    "Code": "C177",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 177 Cardinal",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "52",
+    "WTC": "Light"
+  },
+ "C180":{
+    "Code": "C180",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 180 Skywagon",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "64",
+    "WTC": "Light"
+  },
+ "C182":{
+    "Code": "C182",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Skylane 182",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "65",
+    "WTC": "Light"
+  },
+ "C185":{
+    "Code": "C185",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 185 Skywagon",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "64",
+    "WTC": "Light"
+  },
+ "C188":{
+    "Code": "C188",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 188",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "66",
+    "WTC": "Light"
+  },
+ "C195":{
+    "Code": "C195",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 195",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "52",
+    "WTC": "Light"
+  },
+ "C206":{
+    "Code": "C206",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 206 Stationair",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "70",
+    "WTC": "Light"
+  },
+ "C207":{
+    "Code": "C207",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 207 Stationair 7",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "71",
+    "WTC": "Light "
+  },
+ "C208":{
+    "Code": "C208",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 208 Caravan 1",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "79",
+    "WTC": "Light"
+  },
+ "C210":{
+    "Code": "C210",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 210 Centurion",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "85",
+    "WTC": "Light"
+  },
+ "C212":{
+    "Code": "C212",
+    "Manufacturer": "CASA",
+    "Name": "CASA Aviocar",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "81",
+    "WTC": "Medium"
+  },
+ "C240":{
+    "Code": "C240",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna TTx Model T240",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "C25A":{
+    "Code": "C25A",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation CJ2",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "114",
+    "WTC": "Light"
+  },
+ "C25B":{
+    "Code": "C25B",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation CJ3",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "108",
+    "WTC": "Light"
+  },
+ "C25C":{
+    "Code": "C25C",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation CJ4",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "111",
+    "WTC": "Medium"
+  },
+ "C25M":{
+    "Code": "C25M",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation M2",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "C303":{
+    "Code": "C303",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 303 Crusader",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "90",
+    "WTC": "Light"
+  },
+ "C30J":{
+    "Code": "C30J",
+    "Manufacturer": "LOCKHEED MARTIN",
+    "Name": "C-130J Super Hercules ; Lockheed",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "C310":{
+    "Code": "C310",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 310",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "87",
+    "WTC": "Light"
+  },
+ "C320":{
+    "Code": "C320",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 320 Skyknight",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "68",
+    "WTC": "Light"
+  },
+ "C335":{
+    "Code": "C335",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 335",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "C340":{
+    "Code": "C340",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 340",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "94",
+    "WTC": "Light"
+  },
+ "C402":{
+    "Code": "C402",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 401/402",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "83",
+    "WTC": "Light"
+  },
+ "C404":{
+    "Code": "C404",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 404 Titan",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "96",
+    "WTC": "Light"
+  },
+ "C414":{
+    "Code": "C414",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Chancellor 414",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "95",
+    "WTC": "Light"
+  },
+ "C421":{
+    "Code": "C421",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Golden Eagle 421",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "96",
+    "WTC": "Light"
+  },
+ "C425":{
+    "Code": "C425",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 425 Corsair",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "98",
+    "WTC": "Light"
+  },
+ "C441":{
+    "Code": "C441",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Conquest",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "98",
+    "WTC": "Light"
+  },
+ "C500":{
+    "Code": "C500",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 500/Citation I",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light"
+  },
+ "C501":{
+    "Code": "C501",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 1SP",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light"
+  },
+ "C510":{
+    "Code": "C510",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation Mustang",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "105",
+    "WTC": "Light"
+  },
+ "C525":{
+    "Code": "C525",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna CitationJet/CJ1",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "108",
+    "WTC": "Light"
+  },
+ "C526":{
+    "Code": "C526",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 526 CitationJet",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Light"
+  },
+ "C550":{
+    "Code": "C550",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation II/Bravo",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "105",
+    "WTC": "Light"
+  },
+ "C551":{
+    "Code": "C551",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation II/SP",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "C55B":{
+    "Code": "C55B",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation Bravo",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "117",
+    "WTC": "Light"
+  },
+ "C560":{
+    "Code": "C560",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation V/Ultra/Encore",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "103",
+    "WTC": "Medium"
+  },
+ "C56X":{
+    "Code": "C56X",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Excel/XLS",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "116",
+    "WTC": "Medium"
+  },
+ "C650":{
+    "Code": "C650",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna III/VI/VII",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "C680":{
+    "Code": "C680",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation Sovereign",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "108",
+    "WTC": "Medium"
+  },
+ "C68A":{
+    "Code": "C68A",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation Latitude",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Medium"
+  },
+ "C700":{
+    "Code": "C700",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation Longitude",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "121",
+    "WTC": "Medium"
+  },
+ "C72R":{
+    "Code": "C72R",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 172RG Cutlass RG",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "62",
+    "WTC": "Light"
+  },
+ "C750":{
+    "Code": "C750",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Citation X",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "131",
+    "WTC": "Medium"
+  },
+ "C77R":{
+    "Code": "C77R",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna 177 Cardinal RG",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "65",
+    "WTC": "Light"
+  },
+ "C82R":{
+    "Code": "C82R",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna Skylane RG",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "64",
+    "WTC": "Light"
+  },
+  "C919":{
+  "Code": "C919",
+  "Manufacturer": "中国商飞",
+  "Name": "COMAC C919",
+  "Physical_Class_Engine": "Jet",
+  "Num_Engines": "2",
+  "Approach_Speed_knot": "137",
+  "WTC": "Medium"
+},
+ "CH7A":{
+    "Code": "CH7A",
+    "Manufacturer": "AERONCA",
+    "Name": "Aeronca 7AC",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "CH7B":{
+    "Code": "CH7B",
+    "Manufacturer": "BELLANCA",
+    "Name": "Bellanca 7GCBC Citabria",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "CL30":{
+    "Code": "CL30",
+    "Manufacturer": "BOMBARDIER",
+    "Name": "Bombardier (Canadair) Challenger 300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "CL35":{
+    "Code": "CL35",
+    "Manufacturer": "BOMBARDIER",
+    "Name": "Bombardier Challenger 350",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "CL41":{
+    "Code": "CL41",
+    "Manufacturer": "CANADAIR",
+    "Name": "Canadair 41 Tutor",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "N/A",
+    "WTC": "Light"
+  },
+ "CL60":{
+    "Code": "CL60",
+    "Manufacturer": "CANADAIR",
+    "Name": "Canadair Challenger 600/601/604",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Medium"
+  },
+ "CN35":{
+    "Code": "CN35",
+    "Manufacturer": "CASA",
+    "Name": "CASA CN-235",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "110",
+    "WTC": "Medium"
+  },
+ "COL3":{
+    "Code": "COL3",
+    "Manufacturer": "LANCAIR-CESSNA",
+    "Name": "Lancair LC-40 Columbia 300",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "COL4":{
+    "Code": "COL4",
+    "Manufacturer": "LANCAIR-CESSNA",
+    "Name": "Lancair LC-41 Columbia 400",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "COUR":{
+    "Code": "COUR",
+    "Manufacturer": "HELIO",
+    "Name": "HELIO U-10 Super Courier",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "N/A",
+    "WTC": "Light"
+  },
+ "CRJ1":{
+    "Code": "CRJ1",
+    "Manufacturer": "CANADAIR",
+    "Name": "canadair CRJ-100",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "141",
+    "WTC": "Medium"
+  },
+ "CRJ2":{
+    "Code": "CRJ2",
+    "Manufacturer": "CANADAIR",
+    "Name": "canadair CRJ-200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "141",
+    "WTC": "Medium"
+  },
+ "CRJ7":{
+    "Code": "CRJ7",
+    "Manufacturer": "CANADAIR",
+    "Name": "canadair CRJ-700",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "CRJ9":{
+    "Code": "CRJ9",
+    "Manufacturer": "CANADAIR",
+    "Name": "canadair CRJ-900",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "141",
+    "WTC": "Medium"
+  },
+ "CRUZ":{
+    "Code": "CRUZ",
+    "Manufacturer": "CZAW",
+    "Name": "CZAW SportCruiser",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "39",
+    "WTC": "Light"
+  },
+ "CVLP":{
+    "Code": "CVLP",
+    "Manufacturer": "CONVAIR",
+    "Name": "Convair CV-440 Metropolitan",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Medium"
+  },
+ "CVLT":{
+    "Code": "CVLT",
+    "Manufacturer": "CONVAIR-CANADAIR",
+    "Name": "Convair CV-580/600/640, C-131H",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Medium"
+  },
+ "D328":{
+    "Code": "D328",
+    "Manufacturer": "DORNIER",
+    "Name": "Dornier 328 Series",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "110",
+    "WTC": "Medium"
+  },
+ "DA40":{
+    "Code": "DA40",
+    "Manufacturer": "DIAMOND",
+    "Name": "Diamond Star DA40",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "DA42":{
+    "Code": "DA42",
+    "Manufacturer": "DIAMOND",
+    "Name": "Diamond Twin Star",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "88",
+    "WTC": "Light"
+  },
+ "DC10":{
+    "Code": "DC10",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) DC 10-10/30/40",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "149",
+    "WTC": "Heavy"
+  },
+ "DC3":{
+    "Code": "DC3",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC 3",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Medium"
+  },
+ "DC3S":{
+    "Code": "DC3S",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas Super DC-3",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "97",
+    "WTC": "Medium"
+  },
+ "DC6":{
+    "Code": "DC6",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC 6",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "108",
+    "WTC": "Medium"
+  },
+ "DC87":{
+    "Code": "DC87",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC-8-70",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "143",
+    "WTC": "Heavy"
+  },
+ "DC91":{
+    "Code": "DC91",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC 9-10",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "132",
+    "WTC": "Medium"
+  },
+ "DC93":{
+    "Code": "DC93",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC 9-30",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "132",
+    "WTC": "Medium"
+  },
+ "DC95":{
+    "Code": "DC95",
+    "Manufacturer": "DOUGLAS",
+    "Name": "Douglas DC 9-50",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "DH8A":{
+    "Code": "DH8A",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada DHC8-100",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Medium"
+  },
+ "DH8B":{
+    "Code": "DH8B",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada DHC8-200",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Medium"
+  },
+ "DH8C":{
+    "Code": "DH8C",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada Dash 8/DHC8-300",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "99",
+    "WTC": "Medium"
+  },
+ "DH8D":{
+    "Code": "DH8D",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada 8/DHC8-400",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "DHC2":{
+    "Code": "DHC2",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada 2 Mk1 Beaver",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "51",
+    "WTC": "Light"
+  },
+ "DHC6":{
+    "Code": "DHC6",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada Twin Otter",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "74",
+    "WTC": "Light"
+  },
+ "DHC7":{
+    "Code": "DHC7",
+    "Manufacturer": "DEHAVILLAND CANADA",
+    "Name": "DeHavilland Canada DHC-7",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "83",
+    "WTC": "Medium"
+  },
+ "DV20":{
+    "Code": "DV20",
+    "Manufacturer": "DIAMOND",
+    "Name": "Diamond 20 Katana",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "59",
+    "WTC": "Light"
+  },
+ "E110":{
+    "Code": "E110",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer EMB110 Bandeirante",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "E120":{
+    "Code": "E120",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer Brasilia EMB 120",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "113",
+    "WTC": "Medium"
+  },
+ "E135":{
+    "Code": "E135",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer ERJ 135/140/Legacy",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E145":{
+    "Code": "E145",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer ERJ-145",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E170":{
+    "Code": "E170",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 170",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E190":{
+    "Code": "E190",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 190",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E195":{
+    "Code": "E195",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 195",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "E290":{
+    "Code": "E290",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 190-E2",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "E295":{
+    "Code": "E295",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 195-E2",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "136",
+    "WTC": "Medium"
+  },
+ "E35L":{
+    "Code": "E35L",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 135BJ Legacy 600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E45X":{
+    "Code": "E45X",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer ERJ 145 XR",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "E50P":{
+    "Code": "E50P",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 500 Phenom 100",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "E545":{
+    "Code": "E545",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer EMB-545 Legacy 450",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "111",
+    "WTC": "Medium"
+  },
+ "E550":{
+    "Code": "E550",
+    "Manufacturer": "EMBRAER",
+    "Name": "Legacy 500/Praetor 600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "113",
+    "WTC": "Medium"
+  },
+ "E55P":{
+    "Code": "E55P",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer Phenom 300",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "116",
+    "WTC": "Medium"
+  },
+ "E75L":{
+    "Code": "E75L",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 175 long wing",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "E75S":{
+    "Code": "E75S",
+    "Manufacturer": "EMBRAER",
+    "Name": "Embraer 175 short wing",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "EA50":{
+    "Code": "EA50",
+    "Manufacturer": "ECLIPSE",
+    "Name": "Eclipse 500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "91",
+    "WTC": "Light"
+  },
+ "ERCO":{
+    "Code": "ERCO",
+    "Manufacturer": "ERCO",
+    "Name": "Ercoupe 415",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "55",
+    "WTC": "Light"
+  },
+ "EVOT":{
+    "Code": "EVOT",
+    "Manufacturer": "LANCAIR",
+    "Name": "Lancair Evolution Turbine",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "79",
+    "WTC": "Light"
+  },
+ "":{
+    "Code": "F15",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing F-15 Eagle",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "192",
+    "WTC": "Medium"
+  },
+ "F16":{
+    "Code": "F16",
+    "Manufacturer": "LOCKHEED-GENERAL DYNAMICS",
+    "Name": "Lockheed F-16 Fighting Falcon",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "160",
+    "WTC": "Medium"
+  },
+ "F18H":{
+    "Code": "F18H",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "F/A 18 Hornet",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "134",
+    "WTC": "Medium"
+  },
+ "F18S":{
+    "Code": "F18S",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "FA-18E/F Super Hornet",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "134",
+    "WTC": "Medium"
+  },
+ "F22":{
+    "Code": "F22",
+    "Manufacturer": "LOCKHEED",
+    "Name": "Lockheed Martin L-645 Raptor",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "145",
+    "WTC": "Medium"
+  },
+ "F2TH":{
+    "Code": "F2TH",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon 2000",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "F406":{
+    "Code": "F406",
+    "Manufacturer": "REIMS-CESSNA",
+    "Name": "Reims-Cessna F406 Caravan II",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "103",
+    "WTC": "Light"
+  },
+ "F900":{
+    "Code": "F900",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon 900",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "FA10":{
+    "Code": "FA10",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon/Mystère 10",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Medium"
+  },
+ "FA20":{
+    "Code": "FA20",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon/Mystère 20",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Medium"
+  },
+ "FA50":{
+    "Code": "FA50",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon/Mystère 50",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "FA7X":{
+    "Code": "FA7X",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon 7X",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "FA8X":{
+    "Code": "FA8X",
+    "Manufacturer": "DASSAULT",
+    "Name": "Dassault Falcon 8X",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "106",
+    "WTC": "Medium"
+  },
+ "FDCT":{
+    "Code": "FDCT",
+    "Manufacturer": "FLIGHT DESIGN",
+    "Name": "Flight Design CT",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "51",
+    "WTC": "Light"
+  },
+ "G150":{
+    "Code": "G150",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream G150",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "G164":{
+    "Code": "G164",
+    "Manufacturer": "GRUMMAN AMERICAN ",
+    "Name": "Grumman American G164",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "79",
+    "WTC": "Light"
+  },
+ "G280":{
+    "Code": "G280",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream G280",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "GA5C":{
+    "Code": "GA5C",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream Aerospace Gulfstream G7-G500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "GA6C":{
+    "Code": "GA6C",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream Aerospace Gulfstream G7-G600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "136",
+    "WTC": "Medium"
+  },
+ "GA7":{
+    "Code": "GA7",
+    "Manufacturer": "GULFSTREAM AMERICAN - GRUMMAN AMERICAN",
+    "Name": "Gulfstream American GA7",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "82",
+    "WTC": "Light"
+  },
+ "GALX":{
+    "Code": "GALX",
+    "Manufacturer": "GULFSTREAM AEROSPACE-IAI",
+    "Name": "IAI 1126 Galaxy/Gulfstream G200",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "GC1":{
+    "Code": "GC1",
+    "Manufacturer": "GLOBE",
+    "Name": "Globe GC-1 Swift",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "48",
+    "WTC": "Light"
+  },
+ "GL5T":{
+    "Code": "GL5T",
+    "Manufacturer": "BOMBARDIER",
+    "Name": "Bombardier BD-700 Global 5000",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "GL7T":{
+    "Code": "GL7T",
+    "Manufacturer": "BOMBARDIER",
+    "Name": "Bombardier BD-700 Global 7500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "118",
+    "WTC": "Medium"
+  },
+ "GLEX":{
+    "Code": "GLEX",
+    "Manufacturer": "BOMBARDIER",
+    "Name": "Bombardier BD-700 Global Express",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "131",
+    "WTC": "Medium"
+  },
+ "GLF2":{
+    "Code": "GLF2",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream II",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "GLF3":{
+    "Code": "GLF3",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream III",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "GLF4":{
+    "Code": "GLF4",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream IV/G400",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "150",
+    "WTC": "Medium"
+  },
+ "GLF5":{
+    "Code": "GLF5",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream V/G500",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "145",
+    "WTC": "Medium"
+  },
+ "GLF6":{
+    "Code": "GLF6",
+    "Manufacturer": "GULFSTREAM AEROSPACE",
+    "Name": "Gulfstream G650",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "110",
+    "WTC": "Medium"
+  },
+ "H25A":{
+    "Code": "H25A",
+    "Manufacturer": "HAWKER SIDDELEY",
+    "Name": "HS 125-1/2/3/400/600",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "H25B":{
+    "Code": "H25B",
+    "Manufacturer": "BRITISH AEROSPACE - HAWKER SIDDELEY",
+    "Name": "BAe HS 125/700-800/Hawker 800",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Medium"
+  },
+ "H25C":{
+    "Code": "H25C",
+    "Manufacturer": "BRITISH AEROSPACE RAYTHEON",
+    "Name": "BAe/Raytheon HS 125-1000",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "132",
+    "WTC": "Medium"
+  },
+ "HA4T":{
+    "Code": "HA4T",
+    "Manufacturer": "HAWKER",
+    "Name": "Hawker 4000",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "HAWK":{
+    "Code": "HAWK",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe T-45 Goshawk",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "139",
+    "WTC": "Medium"
+  },
+ "HDJT":{
+    "Code": "HDJT",
+    "Manufacturer": "HONDA",
+    "Name": "HONDA HA-420 HondaJet",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "111",
+    "WTC": "Light"
+  },
+ "HUSK":{
+    "Code": "HUSK",
+    "Manufacturer": "AVIAT",
+    "Name": "AVIAT Huskey ",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "60",
+    "WTC": "Light"
+  },
+ "IL76":{
+    "Code": "IL76",
+    "Manufacturer": "ILYUSHIN",
+    "Name": "Ilyushin IL 76",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "119",
+    "WTC": "Heavy"
+  },
+ "J328":{
+    "Code": "J328",
+    "Manufacturer": "FAIRCHILD DORNIER",
+    "Name": "Fairchild Dornier 328 Jet",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "115",
+    "WTC": "Medium"
+  },
+ "JS31":{
+    "Code": "JS31",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe 3100 Jetstream 31",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "115",
+    "WTC": "Light/Medium"
+  },
+ "JS32":{
+    "Code": "JS32",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe Jetstream super 31",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "109",
+    "WTC": "Medium"
+  },
+ "JS41":{
+    "Code": "JS41",
+    "Manufacturer": "BRITISH AEROSPACE",
+    "Name": "BAe Jetstream 41",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "131",
+    "WTC": "Medium"
+  },
+ "K35R":{
+    "Code": "K35R",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing KC-135 Stratotanker",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "135",
+    "WTC": "Heavy"
+  },
+ "KODI":{
+    "Code": "KODI",
+    "Manufacturer": "QUEST",
+    "Name": "Quest Kodiak",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "L29B":{
+    "Code": "L29B",
+    "Manufacturer": "LOCKHEED",
+    "Name": "Lockheed Jetstar 2/731",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "97",
+    "WTC": "Medium"
+  },
+ "L5":{
+    "Code": "L5",
+    "Manufacturer": "STINTSON",
+    "Name": "Stintson L5 Sentinel",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "58",
+    "WTC": "Light"
+  },
+ "L8":{
+    "Code": "L8",
+    "Manufacturer": "LUSCOMBE",
+    "Name": "Luscombe 8",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "46",
+    "WTC": "Light"
+  },
+ "LA4":{
+    "Code": "LA4",
+    "Manufacturer": "LAKE",
+    "Name": "Lake LA-4",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "51",
+    "WTC": "Light"
+  },
+ "LJ23":{
+    "Code": "LJ23",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 23",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Light"
+  },
+ "LJ24":{
+    "Code": "LJ24",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 24",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Light"
+  },
+ "LJ25":{
+    "Code": "LJ25",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 25",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Light"
+  },
+ "LJ31":{
+    "Code": "LJ31",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 31",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "120",
+    "WTC": "Medium"
+  },
+ "LJ35":{
+    "Code": "LJ35",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 35/36",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "LJ40":{
+    "Code": "LJ40",
+    "Manufacturer": "LEARJET",
+    "Name": "Learjet 40",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "123",
+    "WTC": "Medium"
+  },
+ "LJ45":{
+    "Code": "LJ45",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 45",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "123",
+    "WTC": "Medium"
+  },
+ "LJ55":{
+    "Code": "LJ55",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 55",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "LJ60":{
+    "Code": "LJ60",
+    "Manufacturer": "LEARJET",
+    "Name": "Bombardier Learjet 60",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "LJ70":{
+    "Code": "LJ70",
+    "Manufacturer": "LEARJET",
+    "Name": "Learjet 70",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "LJ75":{
+    "Code": "LJ75",
+    "Manufacturer": "LEARJET",
+    "Name": "Learjet 75",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "125",
+    "WTC": "Medium"
+  },
+ "LNC4":{
+    "Code": "LNC4",
+    "Manufacturer": "LANCAIR",
+    "Name": "Lancair IV",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "81",
+    "WTC": "Light"
+  },
+ "LNP4":{
+    "Code": "LNP4",
+    "Manufacturer": "LANCAIR",
+    "Name": "Lancair PropJet IV",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "81",
+    "WTC": "Light"
+  },
+ "M20P":{
+    "Code": "M20P",
+    "Manufacturer": "MOONEY",
+    "Name": "Mooney M-20C Ranger",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "M20T":{
+    "Code": "M20T",
+    "Manufacturer": "MOONEY",
+    "Name": "Mooney M20K Encore/M20M Bravo",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "M5":{
+    "Code": "M5",
+    "Manufacturer": "MAULE",
+    "Name": "Maule M-5",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "43",
+    "WTC": "Light"
+  },
+ "MD11":{
+    "Code": "MD11",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 11",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "158",
+    "WTC": "Heavy"
+  },
+ "MD81":{
+    "Code": "MD81",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 81",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "134",
+    "WTC": "Medium"
+  },
+ "MD82":{
+    "Code": "MD82",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 82",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "135",
+    "WTC": "Medium"
+  },
+ "MD83":{
+    "Code": "MD83",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 83",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "144",
+    "WTC": "Medium"
+  },
+ "MD87":{
+    "Code": "MD87",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 87",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "134",
+    "WTC": "Medium"
+  },
+ "MD88":{
+    "Code": "MD88",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 88",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "130",
+    "WTC": "Medium"
+  },
+ "MD90":{
+    "Code": "MD90",
+    "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
+    "Name": "Boeing (Douglas) MD 90",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "141",
+    "WTC": "Medium"
+  },
+ "MU2":{
+    "Code": "MU2",
+    "Manufacturer": "MITSUBISHI",
+    "Name": "Mitsubishi Marquise/Solitaire",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "105",
+    "WTC": "Light"
+  },
+ "MU30":{
+    "Code": "MU30",
+    "Manufacturer": "MITSUBISHI",
+    "Name": "Mitsubishi Diamond/MU300 Diamond",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "118",
+    "WTC": "Medium"
+  },
+ "NAVI":{
+    "Code": "NAVI",
+    "Manufacturer": "NORTH AMERICAN-RYAN",
+    "Name": "North American Navion",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "P180":{
+    "Code": "P180",
+    "Manufacturer": "PIAGGIO",
+    "Name": "Piaggio P-180 Avanti",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "121",
+    "WTC": "Light"
+  },
+ "P210":{
+    "Code": "P210",
+    "Manufacturer": "RILEY-CESSNA",
+    "Name": "Riley Super P210",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "75",
+    "WTC": "Light"
+  },
+ "P28A":{
+    "Code": "P28A",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Cherokee",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "70",
+    "WTC": "Light"
+  },
+ "P28B":{
+    "Code": "P28B",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Turbo Dakota",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "62",
+    "WTC": "Light"
+  },
+ "P28R":{
+    "Code": "P28R",
+    "Manufacturer": "PIPER",
+    "Name": "Cherokee Arrow",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "P28T":{
+    "Code": "P28T",
+    "Manufacturer": "PIPER",
+    "Name": "Piper 28T Arrow 4",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "P3":{
+    "Code": "P3",
+    "Manufacturer": "LOCKHEED",
+    "Name": "Lockheed P-3 Orion",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "134",
+    "WTC": "Medium"
+  },
+ "P32R":{
+    "Code": "P32R",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-32R Lance/ Saratoga SP",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "80",
+    "WTC": "Light"
+  },
+ "P32T":{
+    "Code": "P32T",
+    "Manufacturer": "PIPER",
+    "Name": "Piper 32T Turbo Lance 2",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "80",
+    "WTC": "Light"
+  },
+ "P46T":{
+    "Code": "P46T",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Malibu Meridian",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "75",
+    "WTC": "Light"
+  },
+ "P51":{
+    "Code": "P51",
+    "Manufacturer": "NORTH AMERICAN",
+    "Name": "North American Mustang",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "113",
+    "WTC": "Light"
+  },
+ "P68":{
+    "Code": "P68",
+    "Manufacturer": "VULCAN- PARTEVANIA",
+    "Name": "Vulcan Air P68",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "P750":{
+    "Code": "P750",
+    "Manufacturer": "PACIFIC AEROSPACE",
+    "Name": "Pacific Aerospace P-750 Xstol",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "72",
+    "WTC": "Light"
+  },
+ "P8":{
+    "Code": "P8",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing P-8 Poseidon",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "180",
+    "WTC": "Medium"
+  },
+ "PA11":{
+    "Code": "PA11",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-11 Cub Special",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "46",
+    "WTC": "Light"
+  },
+ "PA12":{
+    "Code": "PA12",
+    "Manufacturer": "PIPER",
+    "Name": "Piper 12 Supercruiser",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "PA16":{
+    "Code": "PA16",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-16 Clipper",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "PA18":{
+    "Code": "PA18",
+    "Manufacturer": "PIPER",
+    "Name": "Piper 18 Super Cub",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "48",
+    "WTC": "Light"
+  },
+ "PA20":{
+    "Code": "PA20",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-20 Pacer",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "55",
+    "WTC": "Light"
+  },
+ "PA22":{
+    "Code": "PA22",
+    "Manufacturer": "PIPER",
+    "Name": "Piper 22 Tri-Pacer",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "PA23":{
+    "Code": "PA23",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-23-150/160 Apache",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "85",
+    "WTC": "Light"
+  },
+ "PA24":{
+    "Code": "PA24",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-24 Comanche",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "75",
+    "WTC": "Light"
+  },
+ "PA25":{
+    "Code": "PA25",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-25 Pawnee",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "69",
+    "WTC": "Light"
+  },
+ "PA27":{
+    "Code": "PA27",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Aztec",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "91",
+    "WTC": "Light"
+  },
+ "PA30":{
+    "Code": "PA30",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-30 Turbo Twin Comanche/Turbo Twin Comanche",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "76",
+    "WTC": "Light"
+  },
+ "PA31":{
+    "Code": "PA31",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Navajo PA-31",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "95",
+    "WTC": "Light"
+  },
+ "PA32":{
+    "Code": "PA32",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Cherokee Six",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "PA34":{
+    "Code": "PA34",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-34 Seneca",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "81",
+    "WTC": "Light"
+  },
+ "PA36":{
+    "Code": "PA36",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-36 Pawnee Brave",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "54",
+    "WTC": "Light"
+  },
+ "PA38":{
+    "Code": "PA38",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Tomahawk PA38",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "60",
+    "WTC": "Light"
+  },
+ "PA44":{
+    "Code": "PA44",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Seminole",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "66",
+    "WTC": "Light"
+  },
+ "PA46":{
+    "Code": "PA46",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Malibu",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "75",
+    "WTC": "Light"
+  },
+ "PAT4":{
+    "Code": "PAT4",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-31T3-500 T-1040",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "PAY1":{
+    "Code": "PAY1",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Cheyenne 1",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "92",
+    "WTC": "Light"
+  },
+ "PAY2":{
+    "Code": "PAY2",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Cheyenne 2",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "100",
+    "WTC": "Light"
+  },
+ "PAY3":{
+    "Code": "PAY3",
+    "Manufacturer": "PIPER",
+    "Name": "Piper PA-42-720 Cheyenne 3",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "113",
+    "WTC": "Light"
+  },
+ "PAY4":{
+    "Code": "PAY4",
+    "Manufacturer": "PIPER",
+    "Name": "Piper Cheyenne 400",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "109",
+    "WTC": "Light"
+  },
+ "PC12":{
+    "Code": "PC12",
+    "Manufacturer": "PILATUS",
+    "Name": "Pilatus PC-12",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "85",
+    "WTC": "Light"
+  },
+ "PC24":{
+    "Code": "PC24",
+    "Manufacturer": "PILATUS",
+    "Name": "Pilatus PC-24",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "107",
+    "WTC": "Medium"
+  },
+ "PRM1":{
+    "Code": "PRM1",
+    "Manufacturer": "RAYTHEON- HAWKER BEECHCRAFT",
+    "Name": "Raytheon Premier 1/390 Premier 1",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "120",
+    "WTC": "Light"
+  },
+ "R721":{
+    "Code": "R721",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 727-100RE Super 27",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "R722":{
+    "Code": "R722",
+    "Manufacturer": "BOEING",
+    "Name": "Boeing 727-200RE Super 27",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "3",
+    "Approach_Speed_knot": "136",
+    "WTC": "Medium"
+  },
+ "RJ1H":{
+    "Code": "RJ1H",
+    "Manufacturer": "AVRO",
+    "Name": "Avro RJ-100 Avroliner",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "123",
+    "WTC": "Medium"
+  },
+ "RJ85":{
+    "Code": "RJ85",
+    "Manufacturer": "AVRO",
+    "Name": "Avro RJ-85 Avroliner",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "4",
+    "Approach_Speed_knot": "122",
+    "WTC": "Medium"
+  },
+ "RV12":{
+    "Code": "RV12",
+    "Manufacturer": "VAN'S ",
+    "Name": "Van's RV-12",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "53",
+    "WTC": "Light"
+  },
+ "S108":{
+    "Code": "S108",
+    "Manufacturer": "STINSON",
+    "Name": "Stinson 108 Voyager",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "70",
+    "WTC": "Light"
+  },
+ "S22T":{
+    "Code": "S22T",
+    "Manufacturer": "CIRRUS",
+    "Name": "Cirrus SR-22 Turbo",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "77",
+    "WTC": "Light"
+  },
+ "SB20":{
+    "Code": "SB20",
+    "Manufacturer": "SAAB",
+    "Name": "Saab 2000",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "122",
+    "WTC": "Medium"
+  },
+ "SBR1":{
+    "Code": "SBR1",
+    "Manufacturer": "NORTH AMERICAN ROCKWELL",
+    "Name": "North American Rockwell Sabre 40/60",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "126",
+    "WTC": "Medium"
+  },
+ "SBR2":{
+    "Code": "SBR2",
+    "Manufacturer": "NORTH AMERICAN ROCKWELL",
+    "Name": "North American Rockwell Sabre 75",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "128",
+    "WTC": "Medium"
+  },
+ "SC7":{
+    "Code": "SC7",
+    "Manufacturer": "SHORT",
+    "Name": "Short Skyvan SC7",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "91",
+    "WTC": "Light"
+  },
+ "SF34":{
+    "Code": "SF34",
+    "Manufacturer": "SAAB",
+    "Name": "Saab SF 340",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "124",
+    "WTC": "Medium"
+  },
+ "SF50":{
+    "Code": "SF50",
+    "Manufacturer": "CIRRUS",
+    "Name": "Cirrus Vision SF50",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "87",
+    "WTC": "Light"
+  },
+ "SH33":{
+    "Code": "SH33",
+    "Manufacturer": "SHORT",
+    "Name": "Shorts 330",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "96",
+    "WTC": "Medium"
+  },
+ "SH36":{
+    "Code": "SH36",
+    "Manufacturer": "SHORT",
+    "Name": "Shorts 360",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "104",
+    "WTC": "Medium"
+  },
+ "SR20":{
+    "Code": "SR20",
+    "Manufacturer": "CIRRUS",
+    "Name": "Cirrus SR-20",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "74",
+    "WTC": "Light"
+  },
+ "SR22":{
+    "Code": "SR22",
+    "Manufacturer": "CIRRUS",
+    "Name": "Cirrus SR 22",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "78",
+    "WTC": "Light"
+  },
+ "SU95":{
+    "Code": "SU95",
+    "Manufacturer": "SUKHOI",
+    "Name": "SUKHOI Superjet 100-95",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "140",
+    "WTC": "Medium"
+  },
+ "SW3":{
+    "Code": "SW3",
+    "Manufacturer": "FAIRCHILD SWEARINGEN",
+    "Name": "Fairchild Swearingen SA-226T/TB Merlin 3",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "105",
+    "WTC": "Light"
+  },
+ "SW4":{
+    "Code": "SW4",
+    "Manufacturer": "FAIRCHILD SWEARINGEN",
+    "Name": "Swearingen SA-227AT Merlin 4",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "112",
+    "WTC": "Light/Medium"
+  },
+ "T210":{
+    "Code": "T210",
+    "Manufacturer": "CESSNA",
+    "Name": "Cessna T210 Turbo Centurion",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "73",
+    "WTC": "Light"
+  },
+ "T28":{
+    "Code": "T28",
+    "Manufacturer": "NORTH AMERICAN",
+    "Name": "North American T-28 Trojan",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "62",
+    "WTC": "Light"
+  },
+ "T34P":{
+    "Code": "T34P",
+    "Manufacturer": "BEECH",
+    "Name": "Beech T-34/45 Mentor",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "69",
+    "WTC": "Light"
+  },
+ "T38":{
+    "Code": "T38",
+    "Manufacturer": "NORTHROP",
+    "Name": "Northrop T-38 Talon",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "160",
+    "WTC": "Light"
+  },
+ "T6":{
+    "Code": "T6",
+    "Manufacturer": "NORTH AMERICAN",
+    "Name": "North American T-6 Texan",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "56",
+    "WTC": "Light"
+  },
+ "TAYB":{
+    "Code": "TAYB",
+    "Manufacturer": "TAYLORCRAFT",
+    "Name": "Taylorcraft BC",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "50",
+    "WTC": "Light"
+  },
+ "TB20":{
+    "Code": "TB20",
+    "Manufacturer": "SOCATA",
+    "Name": "Socata TB-20 Trinidad",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "75",
+    "WTC": "Light"
+  },
+ "TBM7":{
+    "Code": "TBM7",
+    "Manufacturer": "SOCATA",
+    "Name": "Socata TBM-700/700A",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "74",
+    "WTC": "Light"
+  },
+ "TBM8":{
+    "Code": "TBM8",
+    "Manufacturer": "SOCATA",
+    "Name": "Socata TBM-850",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "85",
+    "WTC": "Light"
+  },
+ "TBM9":{
+    "Code": "TBM9",
+    "Manufacturer": "SOCATA",
+    "Name": "Socata TBM-900",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "85",
+    "WTC": "Light"
+  },
+ "TEX2":{
+    "Code": "TEX2",
+    "Manufacturer": "RAYTHEON",
+    "Name": "Raytheon Texan 2",
+    "Physical_Class_Engine": "Turboprop",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "103",
+    "WTC": "Light"
+  },
+ "TOBA":{
+    "Code": "TOBA",
+    "Manufacturer": "SOCATA",
+    "Name": "Socata TB-10 Tobago",
+    "Physical_Class_Engine": "Piston",
+    "Num_Engines": "1",
+    "Approach_Speed_knot": "65",
+    "WTC": "Light"
+  },
+ "V22":{
+    "Code": "V22",
+    "Manufacturer": "BELL-BOEING",
+    "Name": "Bell V-22 Osprey",
+    "Physical_Class_Engine": "Turboshaft",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "N/A",
+    "WTC": "Medium"
+  },
+ "WW24":{
+    "Code": "WW24",
+    "Manufacturer": "IAI",
+    "Name": "IAI 1124 Westwind",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "129",
+    "WTC": "Medium"
   }
 }

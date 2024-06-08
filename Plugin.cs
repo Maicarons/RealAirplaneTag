@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using BepInEx;
 using UnityEngine;
@@ -8,9 +9,8 @@ using TMPro;
 using UnityEngine.Rendering;
 using HarmonyLib;
 using UnityEngine.Experimental.Rendering;
-
-
-
+using Random = System.Random;
+using BepInEx.AssemblyPublicizer;
 
 namespace RealAirplaneTag
 {
@@ -21,7 +21,31 @@ namespace RealAirplaneTag
         {
             // Plugin startup logic
             Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded!");
-
+            
+            string filePath =  Paths.ConfigPath + "\\plane.json";
+            string jsonContent = "";
+            try
+            {
+                // 使用StreamReader读取文件
+                using (StreamReader reader = new StreamReader(filePath))
+                {
+                    // 一次性读取整个文件内容
+                    jsonContent = reader.ReadToEnd();
+                
+                    // 打印出JSON字符串内容
+                    Console.WriteLine(jsonContent);
+                }
+            }
+            catch (FileNotFoundException)
+            {
+                Logger.LogInfo($"文件 {filePath} 未找到。");
+            }
+            catch (Exception ex)
+            {
+                Logger.LogInfo($"读取文件时发生错误: {ex.Message}");
+            }
+            var pt = PlaneType.FromJson(jsonContent);
+            Logger.LogInfo(pt.Count);
             SceneManager.sceneLoaded += OnSceneLoaded;
             Harmony harmony = new Harmony(MyPluginInfo.PLUGIN_GUID);
             harmony.PatchAll();
@@ -78,9 +102,20 @@ namespace RealAirplaneTag
             { "MD-80", "2" }, // 中型机
             { "SSJ100", "1" } // 小型机
         };
+
         void Start()
         {
-             _apScale= m_Aircraft.AP.gameObject.transform.localScale;
+
+
+            
+
+
+
+
+
+
+
+        _apScale= m_Aircraft.AP.gameObject.transform.localScale;
              _plScale= m_Aircraft.AP.gameObject.transform.localScale;
             GameObject obj = Instantiate(new GameObject("Text"), m_Aircraft.transform, true);
             m_Text = obj.AddComponent<TextMeshPro>();
