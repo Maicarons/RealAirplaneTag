@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>RealAirplaneTag</AssemblyName>
     <Description>RealAirplaneTag</Description>
-    <Version>0.2.1</Version>
+    <Version>0.2.2</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
@@ -46,5 +46,20 @@
     <Reference Include="UnityEngine.UIModule">
       <HintPath>lib\UnityEngine.UIModule.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Remove="res\plane.json" />
+    <EmbeddedResource Include="res\plane.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Remove="res\FlightNo.json" />
+    <EmbeddedResource Include="res\FlightNo.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Remove="res\map.json" />
+    <EmbeddedResource Include="res\map.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

@@ -16,6 +16,8 @@ namespace RealAirplaneTag
     using Newtonsoft.Json.Converters;
 
     public partial class PlaneType
+    
+
     {
         [JsonProperty("Code")]
         public string Code { get; set; }
@@ -40,9 +42,10 @@ namespace RealAirplaneTag
         public Wtc Wtc { get; set; }
     }
 
+
     public enum PhysicalClassEngine { Jet, Piston, Turboprop, Turboshaft };
 
-    public enum Wtc { Heavy, Light, LightMedium, Medium, Super, WtcLight };
+    public enum Wtc { Heavy, Light, LightMedium, Medium, Super };
 
     public partial class PlaneType
     {
@@ -121,7 +124,6 @@ namespace RealAirplaneTag
             }
             throw new Exception("Cannot unmarshal type PhysicalClassEngine");
         }
-
         public override void WriteJson(JsonWriter writer, object untypedValue, JsonSerializer serializer)
         {
             if (untypedValue == null)
@@ -165,8 +167,6 @@ namespace RealAirplaneTag
                     return Wtc.Heavy;
                 case "Light":
                     return Wtc.Light;
-                case "Light ":
-                    return Wtc.WtcLight;
                 case "Light/Medium":
                     return Wtc.LightMedium;
                 case "Medium":
@@ -192,9 +192,6 @@ namespace RealAirplaneTag
                     return;
                 case Wtc.Light:
                     serializer.Serialize(writer, "Light");
-                    return;
-                case Wtc.WtcLight:
-                    serializer.Serialize(writer, "Light ");
                     return;
                 case Wtc.LightMedium:
                     serializer.Serialize(writer, "Light/Medium");
