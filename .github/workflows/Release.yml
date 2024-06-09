@@ -22,7 +22,7 @@ jobs:
       run: dotnet restore
       
     - name: Build
-      run: dotnet build --configuration Release
+      run: dotnet build
       
     - name: Create Release
       id: create_release
@@ -32,9 +32,9 @@ jobs:
       with:
         tag_name: ${{ github.ref }}
         release_name: Release ${{ github.ref }}
-        body: TODO New Release.
+        body: New Release ${{ github.ref }}.
         draft: false
-        prerelease: false
+        prerelease: true
         
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
@@ -43,3 +43,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: .\bin\netstandard2.1\RealAirplaneTag.dll
+        asset_name: RealAirplaneTag.dll
+        asset_content_type: application/x-msdownload
