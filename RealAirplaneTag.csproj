@@ -20,6 +20,7 @@
     <PackageReference Include="BepInEx.Core" Version="5.*" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Text.Json" Version="9.0.0-preview.4.24266.19" />
     <PackageReference Include="UnityEngine.Modules" Version="2022.3.4" IncludeAssets="compile" />
   </ItemGroup>
   
@@ -61,5 +62,9 @@
     <EmbeddedResource Include="res\map.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="types\" />
   </ItemGroup>
 </Project>

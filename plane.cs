@@ -52,12 +52,12 @@ namespace RealAirplaneTag
         public static Dictionary<string, PlaneType> FromJson(string json) => JsonConvert.DeserializeObject<Dictionary<string, PlaneType>>(json, RealAirplaneTag.Converter.Settings);
     }
 
-    public static class Serialize
+    public static partial class Serialize
     {
         public static string ToJson(this Dictionary<string, PlaneType> self) => JsonConvert.SerializeObject(self, RealAirplaneTag.Converter.Settings);
     }
 
-    internal static class Converter
+    internal static partial class Converter
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {
