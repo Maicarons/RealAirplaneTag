@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using BepInEx;
@@ -10,7 +9,6 @@ using UnityEngine.Rendering;
 using HarmonyLib;
 using BepInEx.Configuration;
 using RealAirplaneTag;
-using Logger = BepInEx.Logging.Logger;
 using Random = System.Random;
 
 
@@ -24,7 +22,7 @@ namespace RealAirplaneTag
         public const string GUID = MyPluginInfo.PLUGIN_GUID;
         public const string PluginName = MyPluginInfo.PLUGIN_NAME;
         public const string Version = MyPluginInfo.PLUGIN_VERSION;
-        private ConfigEntry<bool> Enabled;
+        public ConfigEntry<bool> Enabled;
         ConfigFile config = new ConfigFile(Path.Combine(Paths.ConfigPath, $"{MyPluginInfo.PLUGIN_GUID}.cfg"), true);
         private void Awake()
         {
@@ -54,7 +52,7 @@ namespace RealAirplaneTag
             Logger.LogInfo($"Scene loaded: {scene.name}");
             Logger.LogInfo("scene.path: "+scene.path);
             
-            if ((scene.name == "MapPlayer" || scene.name == "London" ) &&
+            if ((scene.name == "MapPlayer" || scene.name == "London" ||scene.name == "CreatorPlayer" ) &&
                 AircraftManager.Instance != null && Enabled.Value)
             {
                 Logger.LogInfo("MapManager.mapName: "+MapManager.mapName);
@@ -105,6 +103,7 @@ namespace RealAirplaneTag
             planeID.Add(m_Aircraft.GetInstanceID(), GetRandomTags());
             info = planeID[m_Aircraft.GetInstanceID()];
             inited = true;
+            m_Text.text = $"{info.CallSign} | {info.AirType} | {LevelToName(info.SizeOfPlane)} \n";
         }
 
         private PlaneTag GetRandomTags()
@@ -131,17 +130,15 @@ namespace RealAirplaneTag
 
         void Update()
         {
-            if (!m_Aircraft)
-                //planeID.Remove(m_Aircraft.GetInstanceID());
+            if (!m_Aircraft) {
+                planeID.Remove(m_Aircraft.GetInstanceID());
                 Destroy(gameObject);
-
+            }
             if (!inited || !m_Text)
             {
                 return;
             }
-            
-            //var info = planeID[m_Aircraft.GetInstanceID()];
-            m_Text.text = $"{info.CallSign} | {info.AirType} | {LevelToName(info.SizeOfPlane)} \n";
+
         }
 
         private string LevelToName(int i)
@@ -180,7 +177,7 @@ namespace RealAirplaneTag
     
 public class GlobalSettings
 {
-    public static Dictionary<string, Map> AllMaps = Map.FromJson(GetRes.GetFromRes(".res.map.json"));
-    public static Dictionary<string, string> FlightNo = JsonHelper.ConvertJsonToDictionaryFlightNo(GetRes.GetFromRes(".res.FlightNo.json"));
-    public static Dictionary<string, PlaneType> PlaneTypes = PlaneType.FromJson(GetRes.GetFromRes(".res.plane.json"));
+    public static readonly Dictionary<string, Map> AllMaps = Map.FromJson(GetRes.GetFromRes(".res.map.json"));
+    public static readonly Dictionary<string, string> FlightNo = JsonHelper.ConvertJsonToDictionaryFlightNo(GetRes.GetFromRes(".res.FlightNo.json"));
+    public static readonly Dictionary<string, PlaneType> PlaneTypes = PlaneType.FromJson(GetRes.GetFromRes(".res.plane.json"));
 }

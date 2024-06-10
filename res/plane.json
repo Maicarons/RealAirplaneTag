@@ -1,5 +1,5 @@
 {
-  "A10":{
+  "A10": {
     "Code": "A10",
     "Manufacturer": "FAIRCHILD",
     "Name": "Fairchild A10",
@@ -8,7 +8,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Medium"
   },
-  "A124":{
+  "A124": {
     "Code": "A124",
     "Manufacturer": "ANTONOV",
     "Name": "Antonov AN-124 Ruslan",
@@ -17,7 +17,7 @@
     "Approach_Speed_knot": "151",
     "WTC": "Heavy"
   },
-  "A19N":{
+  "A19N": {
     "Code": "A19N",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A319 Neo",
@@ -26,7 +26,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
-  "A20N":{
+  "A20N": {
     "Code": "A20N",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A320 Neo",
@@ -35,7 +35,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Medium"
   },
- "A21N":{
+  "A21N": {
     "Code": "A21N",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A321 Neo",
@@ -44,7 +44,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Medium"
   },
- "A306":{
+  "A306": {
     "Code": "A306",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A300 B4-600",
@@ -53,7 +53,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Heavy"
   },
- "A30B":{
+  "A30B": {
     "Code": "A30B",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A300-B2",
@@ -62,7 +62,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Heavy"
   },
- "A310":{
+  "A310": {
     "Code": "A310",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A310",
@@ -71,7 +71,7 @@
     "Approach_Speed_knot": "139",
     "WTC": "Heavy"
   },
- "A318":{
+  "A318": {
     "Code": "A318",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A318",
@@ -80,7 +80,7 @@
     "Approach_Speed_knot": "121",
     "WTC": "Medium"
   },
- "A319":{
+  "A319": {
     "Code": "A319",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A319",
@@ -89,7 +89,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "A320":{
+  "A320": {
     "Code": "A320",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A320",
@@ -98,7 +98,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Medium"
   },
- "A321":{
+  "A321": {
     "Code": "A321",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A321",
@@ -107,7 +107,7 @@
     "Approach_Speed_knot": "142",
     "WTC": "Medium"
   },
- "A332":{
+  "A332": {
     "Code": "A332",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A330-200",
@@ -116,7 +116,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Heavy"
   },
- "A333":{
+  "A333": {
     "Code": "A333",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A330-300",
@@ -125,7 +125,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Heavy"
   },
- "A337":{
+  "A337": {
     "Code": "A337",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A330-700 - Beluga XL",
@@ -134,7 +134,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Heavy"
   },
- "A338":{
+  "A338": {
     "Code": "A338",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A330-800",
@@ -143,7 +143,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "A339":{
+  "A339": {
     "Code": "A339",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A330-900",
@@ -152,7 +152,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "A342":{
+  "A342": {
     "Code": "A342",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A340-200",
@@ -161,7 +161,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Heavy"
   },
- "A343":{
+  "A343": {
     "Code": "A343",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A340-300",
@@ -170,7 +170,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Heavy"
   },
- "A345":{
+  "A345": {
     "Code": "A345",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A340-500",
@@ -179,7 +179,7 @@
     "Approach_Speed_knot": "146",
     "WTC": "Heavy"
   },
- "A346":{
+  "A346": {
     "Code": "A346",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A340-600",
@@ -188,7 +188,7 @@
     "Approach_Speed_knot": "153",
     "WTC": "Heavy"
   },
- "A359":{
+  "A359": {
     "Code": "A359",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus 350-900",
@@ -197,7 +197,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "A35K":{
+  "A35K": {
     "Code": "A35K",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A350-1000 XWB",
@@ -206,7 +206,7 @@
     "Approach_Speed_knot": "154",
     "WTC": "Heavy"
   },
- "A388":{
+  "A388": {
     "Code": "A388",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A380-800",
@@ -215,7 +215,7 @@
     "Approach_Speed_knot": "138",
     "WTC": "Super"
   },
- "A400":{
+  "A400": {
     "Code": "A400",
     "Manufacturer": "AIRBUS",
     "Name": "Airbus A400M Atlas",
@@ -224,7 +224,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Heavy"
   },
- "A5":{
+  "A5": {
     "Code": "A5",
     "Manufacturer": "ICON",
     "Name": "Icon A-5",
@@ -233,7 +233,7 @@
     "Approach_Speed_knot": "59",
     "WTC": "Light"
   },
- "AA1":{
+  "AA1": {
     "Code": "AA1",
     "Manufacturer": "GRUMMAN AMERICAN",
     "Name": "Grumman American AA1",
@@ -242,7 +242,7 @@
     "Approach_Speed_knot": "69",
     "WTC": "Light"
   },
- "AA5":{
+  "AA5": {
     "Code": "AA5",
     "Manufacturer": "GRUMMAN AMERICAN",
     "Name": "Grumman American AA5",
@@ -251,7 +251,7 @@
     "Approach_Speed_knot": "69",
     "WTC": "Light"
   },
- "AC11":{
+  "AC11": {
     "Code": "AC11",
     "Manufacturer": "ROCKWELL",
     "Name": "Rockwell Commander 112",
@@ -260,7 +260,7 @@
     "Approach_Speed_knot": "70",
     "WTC": "Light"
   },
- "AC50":{
+  "AC50": {
     "Code": "AC50",
     "Manufacturer": "AERO",
     "Name": "Aero Commander 500",
@@ -269,7 +269,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "AC56":{
+  "AC56": {
     "Code": "AC56",
     "Manufacturer": "AERO",
     "Name": "Aero Commander 560",
@@ -278,7 +278,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Light"
   },
- "AC68":{
+  "AC68": {
     "Code": "AC68",
     "Manufacturer": "AERO",
     "Name": "Aero Commander 680FP",
@@ -287,7 +287,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Light"
   },
- "AC6L":{
+  "AC6L": {
     "Code": "AC6L",
     "Manufacturer": "AERO",
     "Name": "Aero Commander 680FL",
@@ -296,7 +296,7 @@
     "Approach_Speed_knot": "98",
     "WTC": "Light"
   },
- "AC80":{
+  "AC80": {
     "Code": "AC80",
     "Manufacturer": "ROCKWELL",
     "Name": "Rockwell Commander Turbo 680",
@@ -305,7 +305,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Light"
   },
- "AC90":{
+  "AC90": {
     "Code": "AC90",
     "Manufacturer": "GULFSTREAM AEROSPACE-ROCKWELL",
     "Name": "Gulfstream 690 Commander 690",
@@ -314,7 +314,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Light"
   },
- "AC95":{
+  "AC95": {
     "Code": "AC95",
     "Manufacturer": "GULFSTREAM AEROSPACE-ROCKWELL",
     "Name": "Gulfstream Jetprop Commander 1000",
@@ -323,7 +323,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "AEST":{
+  "AEST": {
     "Code": "AEST",
     "Manufacturer": "PIPER",
     "Name": "Piper Aero Star",
@@ -332,7 +332,16 @@
     "Approach_Speed_knot": "96",
     "WTC": "Light"
   },
- "AN12":{
+  "AJ27": {
+    "Code": "AJ27",
+    "Manufacturer": "COMAC",
+    "Name": "COMAC ARJ21-700",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "120",
+    "WTC": "Light/Medium"
+  },
+  "AN12": {
     "Code": "AN12",
     "Manufacturer": "ANTONOV",
     "Name": "Antonov AN-12",
@@ -341,7 +350,7 @@
     "Approach_Speed_knot": "127",
     "WTC": "Medium"
   },
- "AN72":{
+  "AN72": {
     "Code": "AN72",
     "Manufacturer": "ANTONOV",
     "Name": "Antonov AN-74-100/200",
@@ -350,7 +359,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Medium"
   },
- "AR11":{
+  "AR11": {
     "Code": "AR11",
     "Manufacturer": "AERONCA",
     "Name": "Aeronca 11 Chief",
@@ -359,7 +368,7 @@
     "Approach_Speed_knot": "49",
     "WTC": "Light"
   },
- "ASTR":{
+  "ASTR": {
     "Code": "ASTR",
     "Manufacturer": "IAI",
     "Name": "IAI Astra 1125",
@@ -368,7 +377,7 @@
     "Approach_Speed_knot": "120",
     "WTC": "Medium"
   },
- "AT3T":{
+  "AT3T": {
     "Code": "AT3T",
     "Manufacturer": "AIR TRACTOR",
     "Name": "Air Tractor AT-402",
@@ -377,7 +386,7 @@
     "Approach_Speed_knot": "74",
     "WTC": "Light"
   },
- "AT43":{
+  "AT43": {
     "Code": "AT43",
     "Manufacturer": "ATR",
     "Name": "ATR 42-300/320",
@@ -386,7 +395,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "AT44":{
+  "AT44": {
     "Code": "AT44",
     "Manufacturer": "ATR",
     "Name": "ATR-42-400",
@@ -395,7 +404,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "AT45":{
+  "AT45": {
     "Code": "AT45",
     "Manufacturer": "ATR",
     "Name": "ATR 42-500",
@@ -404,7 +413,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "AT46":{
+  "AT46": {
     "Code": "AT46",
     "Manufacturer": "ATR",
     "Name": "ATR 42-600",
@@ -413,7 +422,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "AT5T":{
+  "AT5T": {
     "Code": "AT5T",
     "Manufacturer": "AIR TRACTOR",
     "Name": "Air Tractor AT-503",
@@ -422,7 +431,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "AT6T":{
+  "AT6T": {
     "Code": "AT6T",
     "Manufacturer": "AIR TRACTOR",
     "Name": "AT-602 Air Tractor",
@@ -431,7 +440,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "AT72":{
+  "AT72": {
     "Code": "AT72",
     "Manufacturer": "ATR",
     "Name": "ATR-72-201/202",
@@ -440,7 +449,7 @@
     "Approach_Speed_knot": "114",
     "WTC": "Medium"
   },
- "AT73":{
+  "AT73": {
     "Code": "AT73",
     "Manufacturer": "ATR",
     "Name": "ATR 72-211/212",
@@ -449,7 +458,7 @@
     "Approach_Speed_knot": "109",
     "WTC": "Medium"
   },
- "AT75":{
+  "AT75": {
     "Code": "AT75",
     "Manufacturer": "ATR",
     "Name": "ATR-72-500",
@@ -458,7 +467,7 @@
     "Approach_Speed_knot": "120",
     "WTC": "Medium"
   },
- "AT76":{
+  "AT76": {
     "Code": "AT76",
     "Manufacturer": "ATR",
     "Name": "ATR 72-600/212A",
@@ -467,7 +476,7 @@
     "Approach_Speed_knot": "113",
     "WTC": "Medium"
   },
- "AT8T":{
+  "AT8T": {
     "Code": "AT8T",
     "Manufacturer": "AIR TRACTOR",
     "Name": "Air Tractor AT-802",
@@ -476,7 +485,7 @@
     "Approach_Speed_knot": "103",
     "WTC": "Light/Medium"
   },
- "B18T":{
+  "B18T": {
     "Code": "B18T",
     "Manufacturer": "BEECH",
     "Name": "Beech 18 (Turbo)",
@@ -485,7 +494,7 @@
     "Approach_Speed_knot": "87",
     "WTC": "Light"
   },
- "B190":{
+  "B190": {
     "Code": "B190",
     "Manufacturer": "BEECH",
     "Name": "Beech 1900/C-12J",
@@ -494,7 +503,7 @@
     "Approach_Speed_knot": "121",
     "WTC": "Medium"
   },
- "B2":{
+  "B2": {
     "Code": "B2",
     "Manufacturer": "NORTHROP",
     "Name": "Northrop B-2 Spirit",
@@ -503,7 +512,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "B350":{
+  "B350": {
     "Code": "B350",
     "Manufacturer": "BEECH",
     "Name": "Beech Super King Air 350",
@@ -512,7 +521,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light/Medium"
   },
- "B36T":{
+  "B36T": {
     "Code": "B36T",
     "Manufacturer": "ALLISON-BEECH",
     "Name": "Allison 36 Turbine Bonanza",
@@ -521,7 +530,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "B37M":{
+  "B37M": {
     "Code": "B37M",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737 MAX 7",
@@ -530,7 +539,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Medium"
   },
- "B38M":{
+  "B38M": {
     "Code": "B38M",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737 MAX 8",
@@ -539,7 +548,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Medium"
   },
- "B39M":{
+  "B39M": {
     "Code": "B39M",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737 MAX 9",
@@ -548,7 +557,7 @@
     "Approach_Speed_knot": "150",
     "WTC": "Medium"
   },
- "B461":{
+  "B461": {
     "Code": "B461",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe 146-100",
@@ -557,7 +566,7 @@
     "Approach_Speed_knot": "121",
     "WTC": "Medium"
   },
- "B462":{
+  "B462": {
     "Code": "B462",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe 146 -200",
@@ -566,7 +575,7 @@
     "Approach_Speed_knot": "122",
     "WTC": "Medium"
   },
- "B52":{
+  "B52": {
     "Code": "B52",
     "Manufacturer": "BOEING",
     "Name": "Boeing B-52 Stratofortress",
@@ -575,7 +584,7 @@
     "Approach_Speed_knot": "141",
     "WTC": "Heavy"
   },
- "B703":{
+  "B703": {
     "Code": "B703",
     "Manufacturer": "BOEING",
     "Name": "Boeing 707-300",
@@ -584,7 +593,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Heavy"
   },
- "B712":{
+  "B712": {
     "Code": "B712",
     "Manufacturer": "BOEING",
     "Name": "Boeing 717-200",
@@ -593,7 +602,7 @@
     "Approach_Speed_knot": "139",
     "WTC": "Medium"
   },
- "B721":{
+  "B721": {
     "Code": "B721",
     "Manufacturer": "BOEING",
     "Name": "Boeing 727-100 (C-22)",
@@ -602,7 +611,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "B722":{
+  "B722": {
     "Code": "B722",
     "Manufacturer": "BOEING",
     "Name": "Boeing 727-200",
@@ -611,7 +620,7 @@
     "Approach_Speed_knot": "133",
     "WTC": "Medium"
   },
- "B732":{
+  "B732": {
     "Code": "B732",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-200/VC96",
@@ -620,7 +629,7 @@
     "Approach_Speed_knot": "129",
     "WTC": "Medium"
   },
- "B733":{
+  "B733": {
     "Code": "B733",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-300",
@@ -629,7 +638,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "B734":{
+  "B734": {
     "Code": "B734",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-400",
@@ -638,7 +647,7 @@
     "Approach_Speed_knot": "139",
     "WTC": "Medium"
   },
- "B735":{
+  "B735": {
     "Code": "B735",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-500",
@@ -647,7 +656,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "B736":{
+  "B736": {
     "Code": "B736",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-600",
@@ -656,7 +665,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "B737":{
+  "B737": {
     "Code": "B737",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-700",
@@ -665,7 +674,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "B738":{
+  "B738": {
     "Code": "B738",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-800",
@@ -674,7 +683,7 @@
     "Approach_Speed_knot": "144",
     "WTC": "Medium"
   },
- "B739":{
+  "B739": {
     "Code": "B739",
     "Manufacturer": "BOEING",
     "Name": "Boeing 737-900",
@@ -683,7 +692,7 @@
     "Approach_Speed_knot": "149",
     "WTC": "Medium"
   },
- "B741":{
+  "B741": {
     "Code": "B741",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-100",
@@ -692,7 +701,7 @@
     "Approach_Speed_knot": "144",
     "WTC": "Heavy"
   },
- "B742":{
+  "B742": {
     "Code": "B742",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-200",
@@ -701,7 +710,7 @@
     "Approach_Speed_knot": "150",
     "WTC": "Heavy"
   },
- "B743":{
+  "B743": {
     "Code": "B743",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-300",
@@ -710,7 +719,7 @@
     "Approach_Speed_knot": "142",
     "WTC": "Heavy"
   },
- "B744":{
+  "B744": {
     "Code": "B744",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-400",
@@ -719,7 +728,7 @@
     "Approach_Speed_knot": "157",
     "WTC": "Heavy"
   },
- "B748":{
+  "B748": {
     "Code": "B748",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-8",
@@ -728,7 +737,7 @@
     "Approach_Speed_knot": "159",
     "WTC": "Heavy"
   },
- "B752":{
+  "B752": {
     "Code": "B752",
     "Manufacturer": "BOEING",
     "Name": "Boeing 757-200",
@@ -737,7 +746,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Medium"
   },
- "B753":{
+  "B753": {
     "Code": "B753",
     "Manufacturer": "BOEING",
     "Name": "Boeing 757-300",
@@ -746,7 +755,7 @@
     "Approach_Speed_knot": "143",
     "WTC": "Medium"
   },
- "B762":{
+  "B762": {
     "Code": "B762",
     "Manufacturer": "BOEING",
     "Name": "Boeing 767-200",
@@ -755,7 +764,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Heavy"
   },
- "B763":{
+  "B763": {
     "Code": "B763",
     "Manufacturer": "BOEING",
     "Name": "Boeing 767-300",
@@ -764,7 +773,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "B764":{
+  "B764": {
     "Code": "B764",
     "Manufacturer": "BOEING",
     "Name": "Boeing 767-400",
@@ -773,7 +782,7 @@
     "Approach_Speed_knot": "150",
     "WTC": "Heavy"
   },
- "B772":{
+  "B772": {
     "Code": "B772",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-200",
@@ -782,7 +791,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "B773":{
+  "B773": {
     "Code": "B773",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-300",
@@ -791,7 +800,7 @@
     "Approach_Speed_knot": "149",
     "WTC": "Heavy"
   },
- "B778":{
+  "B778": {
     "Code": "B778",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-8 ",
@@ -800,7 +809,7 @@
     "Approach_Speed_knot": "152",
     "WTC": "Heavy"
   },
- "B779":{
+  "B779": {
     "Code": "B779",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-9",
@@ -809,7 +818,7 @@
     "Approach_Speed_knot": "154",
     "WTC": "Heavy"
   },
- "B77L":{
+  "B77L": {
     "Code": "B77L",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-200LRF/LR",
@@ -818,7 +827,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Heavy"
   },
- "B77W":{
+  "B77W": {
     "Code": "B77W",
     "Manufacturer": "BOEING",
     "Name": "Boeing 777-300ER",
@@ -827,7 +836,7 @@
     "Approach_Speed_knot": "149",
     "WTC": "Heavy"
   },
- "B788":{
+  "B788": {
     "Code": "B788",
     "Manufacturer": "BOEING",
     "Name": "Boeing 787-8 BBJ/Dreamliner",
@@ -836,7 +845,7 @@
     "Approach_Speed_knot": "144",
     "WTC": "Heavy"
   },
- "B789":{
+  "B789": {
     "Code": "B789",
     "Manufacturer": "BOEING",
     "Name": "Boeing 787-9 Dreamliner",
@@ -845,7 +854,7 @@
     "Approach_Speed_knot": "144",
     "WTC": "Heavy"
   },
- "B78X":{
+  "B78X": {
     "Code": "B78X",
     "Manufacturer": "BOEING",
     "Name": "Boeing 787-10 Dreamliner",
@@ -854,7 +863,7 @@
     "Approach_Speed_knot": "149",
     "WTC": "Heavy"
   },
- "BA11":{
+  "BA11": {
     "Code": "BA11",
     "Manufacturer": "BAC",
     "Name": "BAC 111 One-Eleven",
@@ -863,7 +872,7 @@
     "Approach_Speed_knot": "133",
     "WTC": "Medium"
   },
- "BCS1":{
+  "BCS1": {
     "Code": "BCS1",
     "Manufacturer": "AIRBUS-BOMBARDIER",
     "Name": "Airbus A220-100",
@@ -872,7 +881,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "BCS3":{
+  "BCS3": {
     "Code": "BCS3",
     "Manufacturer": "AIRBUS-BOMBARDIER",
     "Name": "Airbus A220-300",
@@ -881,7 +890,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "BE10":{
+  "BE10": {
     "Code": "BE10",
     "Manufacturer": "BEECH",
     "Name": "Beech King Air 100",
@@ -890,7 +899,7 @@
     "Approach_Speed_knot": "111",
     "WTC": "Light"
   },
- "BE18":{
+  "BE18": {
     "Code": "BE18",
     "Manufacturer": "BEECH",
     "Name": "Beech 18",
@@ -899,7 +908,7 @@
     "Approach_Speed_knot": "87",
     "WTC": "Light"
   },
- "BE19":{
+  "BE19": {
     "Code": "BE19",
     "Manufacturer": "BEECH",
     "Name": "Beech B19 Musketeer",
@@ -908,7 +917,7 @@
     "Approach_Speed_knot": "65",
     "WTC": "Light"
   },
- "BE20":{
+  "BE20": {
     "Code": "BE20",
     "Manufacturer": "BEECH",
     "Name": "Beech 200 Super King",
@@ -917,7 +926,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light/Medium"
   },
- "BE23":{
+  "BE23": {
     "Code": "BE23",
     "Manufacturer": "BEECH",
     "Name": "Beech 23 Sundowner",
@@ -926,7 +935,7 @@
     "Approach_Speed_knot": "70",
     "WTC": "Light"
   },
- "BE24":{
+  "BE24": {
     "Code": "BE24",
     "Manufacturer": "BEECH",
     "Name": "Beech 24 Sierra",
@@ -935,7 +944,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "BE30":{
+  "BE30": {
     "Code": "BE30",
     "Manufacturer": "RAYTHEON-BEECH",
     "Name": "Raytheon 300 Super King Air",
@@ -944,7 +953,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light"
   },
- "BE33":{
+  "BE33": {
     "Code": "BE33",
     "Manufacturer": "BEECH",
     "Name": "Beech Bonanza 33",
@@ -953,7 +962,7 @@
     "Approach_Speed_knot": "69",
     "WTC": "Light"
   },
- "BE35":{
+  "BE35": {
     "Code": "BE35",
     "Manufacturer": "BEECH",
     "Name": "Beech Bonanza 35",
@@ -962,7 +971,7 @@
     "Approach_Speed_knot": "72",
     "WTC": "Light"
   },
- "BE36":{
+  "BE36": {
     "Code": "BE36",
     "Manufacturer": "BEECH",
     "Name": "Beech Bonanza 36",
@@ -971,7 +980,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "BE40":{
+  "BE40": {
     "Code": "BE40",
     "Manufacturer": "RAYTHEON-BEECH-HAWKER",
     "Name": "Raytheon/Beech Beechjet 400/T-1 Jayhawk",
@@ -980,7 +989,7 @@
     "Approach_Speed_knot": "114",
     "WTC": "Medium"
   },
- "BE50":{
+  "BE50": {
     "Code": "BE50",
     "Manufacturer": "BEECH",
     "Name": "Beechcraft 50 Twin Bonanza",
@@ -989,7 +998,7 @@
     "Approach_Speed_knot": "80",
     "WTC": "Light"
   },
- "BE55":{
+  "BE55": {
     "Code": "BE55",
     "Manufacturer": "BEECH",
     "Name": "Beech Baron 55",
@@ -998,7 +1007,7 @@
     "Approach_Speed_knot": "95",
     "WTC": "Light"
   },
- "BE58":{
+  "BE58": {
     "Code": "BE58",
     "Manufacturer": "BEECH",
     "Name": "Beech 58 Baron",
@@ -1007,7 +1016,7 @@
     "Approach_Speed_knot": "95",
     "WTC": "Light"
   },
- "BE60":{
+  "BE60": {
     "Code": "BE60",
     "Manufacturer": "BEECH",
     "Name": "Beech 60 Duke",
@@ -1016,7 +1025,7 @@
     "Approach_Speed_knot": "98",
     "WTC": "Light"
   },
- "BE65":{
+  "BE65": {
     "Code": "BE65",
     "Manufacturer": "BEECH",
     "Name": "Beech 65 Queen Air",
@@ -1025,7 +1034,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "BE70":{
+  "BE70": {
     "Code": "BE70",
     "Manufacturer": "BEECH",
     "Name": "Beech 70 Queen Air",
@@ -1034,7 +1043,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "BE76":{
+  "BE76": {
     "Code": "BE76",
     "Manufacturer": "BEECH",
     "Name": "Beech 76 Duchess",
@@ -1043,7 +1052,7 @@
     "Approach_Speed_knot": "76",
     "WTC": "Light"
   },
- "BE77":{
+  "BE77": {
     "Code": "BE77",
     "Manufacturer": "BEECH",
     "Name": "Beech 77 Skipper",
@@ -1052,7 +1061,7 @@
     "Approach_Speed_knot": "63",
     "WTC": "Light"
   },
- "BE80":{
+  "BE80": {
     "Code": "BE80",
     "Manufacturer": "BEECH",
     "Name": "Beech BE-80 Queen Air",
@@ -1061,7 +1070,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "BE95":{
+  "BE95": {
     "Code": "BE95",
     "Manufacturer": "BEECH",
     "Name": "Beechcraft 95 Travel Air",
@@ -1070,7 +1079,7 @@
     "Approach_Speed_knot": "79",
     "WTC": "Light"
   },
- "BE99":{
+  "BE99": {
     "Code": "BE99",
     "Manufacturer": "BEECH",
     "Name": "Beech Airliner 99",
@@ -1079,7 +1088,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light"
   },
- "BE9L":{
+  "BE9L": {
     "Code": "BE9L",
     "Manufacturer": "BEECH",
     "Name": "Beech King Air 90",
@@ -1088,7 +1097,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "BE9T":{
+  "BE9T": {
     "Code": "BE9T",
     "Manufacturer": "BEECH",
     "Name": "Beech F90 King Air",
@@ -1097,7 +1106,7 @@
     "Approach_Speed_knot": "108",
     "WTC": "Light"
   },
- "BL17":{
+  "BL17": {
     "Code": "BL17",
     "Manufacturer": "BELLANCA",
     "Name": "Bellanca Viking",
@@ -1106,7 +1115,7 @@
     "Approach_Speed_knot": "79",
     "WTC": "Light"
   },
- "BL8":{
+  "BL8": {
     "Code": "BL8",
     "Manufacturer": "BELLANCA",
     "Name": "Bellanca 8 Scout",
@@ -1115,7 +1124,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "BLCF":{
+  "BLCF": {
     "Code": "BLCF",
     "Manufacturer": "BOEING",
     "Name": "Boeing 747-400LCF Dreamlifter",
@@ -1124,7 +1133,7 @@
     "Approach_Speed_knot": "155",
     "WTC": "Heavy"
   },
- "BT36":{
+  "BT36": {
     "Code": "BT36",
     "Manufacturer": "BEECH",
     "Name": "Beech 36 Bonanza",
@@ -1133,7 +1142,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "C120":{
+  "C120": {
     "Code": "C120",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 120",
@@ -1142,7 +1151,7 @@
     "Approach_Speed_knot": "52",
     "WTC": "Light"
   },
- "C130":{
+  "C130": {
     "Code": "C130",
     "Manufacturer": "LOCKHEED",
     "Name": "Lockheed 130 Hercules",
@@ -1151,7 +1160,7 @@
     "Approach_Speed_knot": "117",
     "WTC": "Medium"
   },
- "C140":{
+  "C140": {
     "Code": "C140",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 140",
@@ -1160,7 +1169,7 @@
     "Approach_Speed_knot": "52",
     "WTC": "Light"
   },
- "C150":{
+  "C150": {
     "Code": "C150",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 150",
@@ -1169,7 +1178,7 @@
     "Approach_Speed_knot": "55",
     "WTC": "Light"
   },
- "C152":{
+  "C152": {
     "Code": "C152",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 152",
@@ -1178,7 +1187,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "C160":{
+  "C160": {
     "Code": "C160",
     "Manufacturer": "TRANSALL",
     "Name": "Transall C-160",
@@ -1187,7 +1196,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "C162":{
+  "C162": {
     "Code": "C162",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 162 Skycatcher",
@@ -1196,7 +1205,7 @@
     "Approach_Speed_knot": "51",
     "WTC": "Light"
   },
- "C17":{
+  "C17": {
     "Code": "C17",
     "Manufacturer": "BOEING",
     "Name": "Boeing Globemaster 3",
@@ -1205,7 +1214,7 @@
     "Approach_Speed_knot": "115",
     "WTC": "Heavy"
   },
- "C170":{
+  "C170": {
     "Code": "C170",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 170",
@@ -1214,7 +1223,7 @@
     "Approach_Speed_knot": "59",
     "WTC": "Light"
   },
- "C172":{
+  "C172": {
     "Code": "C172",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Skyhawk 172/Cutlass",
@@ -1223,7 +1232,7 @@
     "Approach_Speed_knot": "62",
     "WTC": "Light"
   },
- "C175":{
+  "C175": {
     "Code": "C175",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 175",
@@ -1232,7 +1241,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "C177":{
+  "C177": {
     "Code": "C177",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 177 Cardinal",
@@ -1241,7 +1250,7 @@
     "Approach_Speed_knot": "52",
     "WTC": "Light"
   },
- "C180":{
+  "C180": {
     "Code": "C180",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 180 Skywagon",
@@ -1250,7 +1259,7 @@
     "Approach_Speed_knot": "64",
     "WTC": "Light"
   },
- "C182":{
+  "C182": {
     "Code": "C182",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Skylane 182",
@@ -1259,7 +1268,7 @@
     "Approach_Speed_knot": "65",
     "WTC": "Light"
   },
- "C185":{
+  "C185": {
     "Code": "C185",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 185 Skywagon",
@@ -1268,7 +1277,7 @@
     "Approach_Speed_knot": "64",
     "WTC": "Light"
   },
- "C188":{
+  "C188": {
     "Code": "C188",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 188",
@@ -1277,7 +1286,7 @@
     "Approach_Speed_knot": "66",
     "WTC": "Light"
   },
- "C195":{
+  "C195": {
     "Code": "C195",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 195",
@@ -1286,7 +1295,7 @@
     "Approach_Speed_knot": "52",
     "WTC": "Light"
   },
- "C206":{
+  "C206": {
     "Code": "C206",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 206 Stationair",
@@ -1295,7 +1304,7 @@
     "Approach_Speed_knot": "70",
     "WTC": "Light"
   },
- "C207":{
+  "C207": {
     "Code": "C207",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 207 Stationair 7",
@@ -1304,7 +1313,7 @@
     "Approach_Speed_knot": "71",
     "WTC": "Light"
   },
- "C208":{
+  "C208": {
     "Code": "C208",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 208 Caravan 1",
@@ -1313,7 +1322,7 @@
     "Approach_Speed_knot": "79",
     "WTC": "Light"
   },
- "C210":{
+  "C210": {
     "Code": "C210",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 210 Centurion",
@@ -1322,7 +1331,7 @@
     "Approach_Speed_knot": "85",
     "WTC": "Light"
   },
- "C212":{
+  "C212": {
     "Code": "C212",
     "Manufacturer": "CASA",
     "Name": "CASA Aviocar",
@@ -1331,7 +1340,7 @@
     "Approach_Speed_knot": "81",
     "WTC": "Medium"
   },
- "C240":{
+  "C240": {
     "Code": "C240",
     "Manufacturer": "CESSNA",
     "Name": "Cessna TTx Model T240",
@@ -1340,7 +1349,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "C25A":{
+  "C25A": {
     "Code": "C25A",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation CJ2",
@@ -1349,7 +1358,7 @@
     "Approach_Speed_knot": "114",
     "WTC": "Light"
   },
- "C25B":{
+  "C25B": {
     "Code": "C25B",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation CJ3",
@@ -1358,7 +1367,7 @@
     "Approach_Speed_knot": "108",
     "WTC": "Light"
   },
- "C25C":{
+  "C25C": {
     "Code": "C25C",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation CJ4",
@@ -1367,7 +1376,7 @@
     "Approach_Speed_knot": "111",
     "WTC": "Medium"
   },
- "C25M":{
+  "C25M": {
     "Code": "C25M",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation M2",
@@ -1376,7 +1385,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "C303":{
+  "C303": {
     "Code": "C303",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 303 Crusader",
@@ -1385,7 +1394,7 @@
     "Approach_Speed_knot": "90",
     "WTC": "Light"
   },
- "C30J":{
+  "C30J": {
     "Code": "C30J",
     "Manufacturer": "LOCKHEED MARTIN",
     "Name": "C-130J Super Hercules ; Lockheed",
@@ -1394,7 +1403,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "C310":{
+  "C310": {
     "Code": "C310",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 310",
@@ -1403,7 +1412,7 @@
     "Approach_Speed_knot": "87",
     "WTC": "Light"
   },
- "C320":{
+  "C320": {
     "Code": "C320",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 320 Skyknight",
@@ -1412,7 +1421,7 @@
     "Approach_Speed_knot": "68",
     "WTC": "Light"
   },
- "C335":{
+  "C335": {
     "Code": "C335",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 335",
@@ -1421,7 +1430,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "C340":{
+  "C340": {
     "Code": "C340",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 340",
@@ -1430,7 +1439,7 @@
     "Approach_Speed_knot": "94",
     "WTC": "Light"
   },
- "C402":{
+  "C402": {
     "Code": "C402",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 401/402",
@@ -1439,7 +1448,7 @@
     "Approach_Speed_knot": "83",
     "WTC": "Light"
   },
- "C404":{
+  "C404": {
     "Code": "C404",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 404 Titan",
@@ -1448,7 +1457,7 @@
     "Approach_Speed_knot": "96",
     "WTC": "Light"
   },
- "C414":{
+  "C414": {
     "Code": "C414",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Chancellor 414",
@@ -1457,7 +1466,7 @@
     "Approach_Speed_knot": "95",
     "WTC": "Light"
   },
- "C421":{
+  "C421": {
     "Code": "C421",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Golden Eagle 421",
@@ -1466,7 +1475,7 @@
     "Approach_Speed_knot": "96",
     "WTC": "Light"
   },
- "C425":{
+  "C425": {
     "Code": "C425",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 425 Corsair",
@@ -1475,7 +1484,7 @@
     "Approach_Speed_knot": "98",
     "WTC": "Light"
   },
- "C441":{
+  "C441": {
     "Code": "C441",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Conquest",
@@ -1484,7 +1493,7 @@
     "Approach_Speed_knot": "98",
     "WTC": "Light"
   },
- "C500":{
+  "C500": {
     "Code": "C500",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 500/Citation I",
@@ -1493,7 +1502,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light"
   },
- "C501":{
+  "C501": {
     "Code": "C501",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 1SP",
@@ -1502,7 +1511,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light"
   },
- "C510":{
+  "C510": {
     "Code": "C510",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation Mustang",
@@ -1511,7 +1520,7 @@
     "Approach_Speed_knot": "105",
     "WTC": "Light"
   },
- "C525":{
+  "C525": {
     "Code": "C525",
     "Manufacturer": "CESSNA",
     "Name": "Cessna CitationJet/CJ1",
@@ -1520,7 +1529,7 @@
     "Approach_Speed_knot": "108",
     "WTC": "Light"
   },
- "C526":{
+  "C526": {
     "Code": "C526",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 526 CitationJet",
@@ -1529,7 +1538,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Light"
   },
- "C550":{
+  "C550": {
     "Code": "C550",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation II/Bravo",
@@ -1538,7 +1547,7 @@
     "Approach_Speed_knot": "105",
     "WTC": "Light"
   },
- "C551":{
+  "C551": {
     "Code": "C551",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation II/SP",
@@ -1547,7 +1556,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "C55B":{
+  "C55B": {
     "Code": "C55B",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation Bravo",
@@ -1556,7 +1565,7 @@
     "Approach_Speed_knot": "117",
     "WTC": "Light"
   },
- "C560":{
+  "C560": {
     "Code": "C560",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation V/Ultra/Encore",
@@ -1565,7 +1574,7 @@
     "Approach_Speed_knot": "103",
     "WTC": "Medium"
   },
- "C56X":{
+  "C56X": {
     "Code": "C56X",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Excel/XLS",
@@ -1574,7 +1583,7 @@
     "Approach_Speed_knot": "116",
     "WTC": "Medium"
   },
- "C650":{
+  "C650": {
     "Code": "C650",
     "Manufacturer": "CESSNA",
     "Name": "Cessna III/VI/VII",
@@ -1583,7 +1592,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "C680":{
+  "C680": {
     "Code": "C680",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation Sovereign",
@@ -1592,7 +1601,7 @@
     "Approach_Speed_knot": "108",
     "WTC": "Medium"
   },
- "C68A":{
+  "C68A": {
     "Code": "C68A",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation Latitude",
@@ -1601,7 +1610,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Medium"
   },
- "C700":{
+  "C700": {
     "Code": "C700",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation Longitude",
@@ -1610,7 +1619,7 @@
     "Approach_Speed_knot": "121",
     "WTC": "Medium"
   },
- "C72R":{
+  "C72R": {
     "Code": "C72R",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 172RG Cutlass RG",
@@ -1619,7 +1628,7 @@
     "Approach_Speed_knot": "62",
     "WTC": "Light"
   },
- "C750":{
+  "C750": {
     "Code": "C750",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Citation X",
@@ -1628,7 +1637,7 @@
     "Approach_Speed_knot": "131",
     "WTC": "Medium"
   },
- "C77R":{
+  "C77R": {
     "Code": "C77R",
     "Manufacturer": "CESSNA",
     "Name": "Cessna 177 Cardinal RG",
@@ -1637,7 +1646,7 @@
     "Approach_Speed_knot": "65",
     "WTC": "Light"
   },
- "C82R":{
+  "C82R": {
     "Code": "C82R",
     "Manufacturer": "CESSNA",
     "Name": "Cessna Skylane RG",
@@ -1646,16 +1655,16 @@
     "Approach_Speed_knot": "64",
     "WTC": "Light"
   },
-  "C919":{
-  "Code": "C919",
-  "Manufacturer": "中国商飞",
-  "Name": "COMAC C919",
-  "Physical_Class_Engine": "Jet",
-  "Num_Engines": "2",
-  "Approach_Speed_knot": "137",
-  "WTC": "Medium"
-},
- "CH7A":{
+  "C919": {
+    "Code": "C919",
+    "Manufacturer": "COMAC",
+    "Name": "COMAC C919",
+    "Physical_Class_Engine": "Jet",
+    "Num_Engines": "2",
+    "Approach_Speed_knot": "137",
+    "WTC": "Medium"
+  },
+  "CH7A": {
     "Code": "CH7A",
     "Manufacturer": "AERONCA",
     "Name": "Aeronca 7AC",
@@ -1664,7 +1673,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "CH7B":{
+  "CH7B": {
     "Code": "CH7B",
     "Manufacturer": "BELLANCA",
     "Name": "Bellanca 7GCBC Citabria",
@@ -1673,7 +1682,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "CL30":{
+  "CL30": {
     "Code": "CL30",
     "Manufacturer": "BOMBARDIER",
     "Name": "Bombardier (Canadair) Challenger 300",
@@ -1682,7 +1691,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "CL35":{
+  "CL35": {
     "Code": "CL35",
     "Manufacturer": "BOMBARDIER",
     "Name": "Bombardier Challenger 350",
@@ -1691,7 +1700,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "CL41":{
+  "CL41": {
     "Code": "CL41",
     "Manufacturer": "CANADAIR",
     "Name": "Canadair 41 Tutor",
@@ -1700,7 +1709,7 @@
     "Approach_Speed_knot": "N/A",
     "WTC": "Light"
   },
- "CL60":{
+  "CL60": {
     "Code": "CL60",
     "Manufacturer": "CANADAIR",
     "Name": "Canadair Challenger 600/601/604",
@@ -1709,7 +1718,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Medium"
   },
- "CN35":{
+  "CN35": {
     "Code": "CN35",
     "Manufacturer": "CASA",
     "Name": "CASA CN-235",
@@ -1718,7 +1727,7 @@
     "Approach_Speed_knot": "110",
     "WTC": "Medium"
   },
- "COL3":{
+  "COL3": {
     "Code": "COL3",
     "Manufacturer": "LANCAIR-CESSNA",
     "Name": "Lancair LC-40 Columbia 300",
@@ -1727,7 +1736,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "COL4":{
+  "COL4": {
     "Code": "COL4",
     "Manufacturer": "LANCAIR-CESSNA",
     "Name": "Lancair LC-41 Columbia 400",
@@ -1736,7 +1745,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "COUR":{
+  "COUR": {
     "Code": "COUR",
     "Manufacturer": "HELIO",
     "Name": "HELIO U-10 Super Courier",
@@ -1745,7 +1754,7 @@
     "Approach_Speed_knot": "N/A",
     "WTC": "Light"
   },
- "CRJ1":{
+  "CRJ1": {
     "Code": "CRJ1",
     "Manufacturer": "CANADAIR",
     "Name": "canadair CRJ-100",
@@ -1754,7 +1763,7 @@
     "Approach_Speed_knot": "141",
     "WTC": "Medium"
   },
- "CRJ2":{
+  "CRJ2": {
     "Code": "CRJ2",
     "Manufacturer": "CANADAIR",
     "Name": "canadair CRJ-200",
@@ -1763,7 +1772,7 @@
     "Approach_Speed_knot": "141",
     "WTC": "Medium"
   },
- "CRJ7":{
+  "CRJ7": {
     "Code": "CRJ7",
     "Manufacturer": "CANADAIR",
     "Name": "canadair CRJ-700",
@@ -1772,7 +1781,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "CRJ9":{
+  "CRJ9": {
     "Code": "CRJ9",
     "Manufacturer": "CANADAIR",
     "Name": "canadair CRJ-900",
@@ -1781,7 +1790,7 @@
     "Approach_Speed_knot": "141",
     "WTC": "Medium"
   },
- "CRUZ":{
+  "CRUZ": {
     "Code": "CRUZ",
     "Manufacturer": "CZAW",
     "Name": "CZAW SportCruiser",
@@ -1790,7 +1799,7 @@
     "Approach_Speed_knot": "39",
     "WTC": "Light"
   },
- "CVLP":{
+  "CVLP": {
     "Code": "CVLP",
     "Manufacturer": "CONVAIR",
     "Name": "Convair CV-440 Metropolitan",
@@ -1799,7 +1808,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Medium"
   },
- "CVLT":{
+  "CVLT": {
     "Code": "CVLT",
     "Manufacturer": "CONVAIR-CANADAIR",
     "Name": "Convair CV-580/600/640, C-131H",
@@ -1808,7 +1817,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Medium"
   },
- "D328":{
+  "D328": {
     "Code": "D328",
     "Manufacturer": "DORNIER",
     "Name": "Dornier 328 Series",
@@ -1817,7 +1826,7 @@
     "Approach_Speed_knot": "110",
     "WTC": "Medium"
   },
- "DA40":{
+  "DA40": {
     "Code": "DA40",
     "Manufacturer": "DIAMOND",
     "Name": "Diamond Star DA40",
@@ -1826,7 +1835,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "DA42":{
+  "DA42": {
     "Code": "DA42",
     "Manufacturer": "DIAMOND",
     "Name": "Diamond Twin Star",
@@ -1835,7 +1844,7 @@
     "Approach_Speed_knot": "88",
     "WTC": "Light"
   },
- "DC10":{
+  "DC10": {
     "Code": "DC10",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) DC 10-10/30/40",
@@ -1844,7 +1853,7 @@
     "Approach_Speed_knot": "149",
     "WTC": "Heavy"
   },
- "DC3":{
+  "DC3": {
     "Code": "DC3",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC 3",
@@ -1853,7 +1862,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Medium"
   },
- "DC3S":{
+  "DC3S": {
     "Code": "DC3S",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas Super DC-3",
@@ -1862,7 +1871,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Medium"
   },
- "DC6":{
+  "DC6": {
     "Code": "DC6",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC 6",
@@ -1871,7 +1880,7 @@
     "Approach_Speed_knot": "108",
     "WTC": "Medium"
   },
- "DC87":{
+  "DC87": {
     "Code": "DC87",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC-8-70",
@@ -1880,7 +1889,7 @@
     "Approach_Speed_knot": "143",
     "WTC": "Heavy"
   },
- "DC91":{
+  "DC91": {
     "Code": "DC91",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC 9-10",
@@ -1889,7 +1898,7 @@
     "Approach_Speed_knot": "132",
     "WTC": "Medium"
   },
- "DC93":{
+  "DC93": {
     "Code": "DC93",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC 9-30",
@@ -1898,7 +1907,7 @@
     "Approach_Speed_knot": "132",
     "WTC": "Medium"
   },
- "DC95":{
+  "DC95": {
     "Code": "DC95",
     "Manufacturer": "DOUGLAS",
     "Name": "Douglas DC 9-50",
@@ -1907,7 +1916,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "DH8A":{
+  "DH8A": {
     "Code": "DH8A",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada DHC8-100",
@@ -1916,7 +1925,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Medium"
   },
- "DH8B":{
+  "DH8B": {
     "Code": "DH8B",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada DHC8-200",
@@ -1925,7 +1934,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Medium"
   },
- "DH8C":{
+  "DH8C": {
     "Code": "DH8C",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada Dash 8/DHC8-300",
@@ -1934,7 +1943,7 @@
     "Approach_Speed_knot": "99",
     "WTC": "Medium"
   },
- "DH8D":{
+  "DH8D": {
     "Code": "DH8D",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada 8/DHC8-400",
@@ -1943,7 +1952,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "DHC2":{
+  "DHC2": {
     "Code": "DHC2",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada 2 Mk1 Beaver",
@@ -1952,7 +1961,7 @@
     "Approach_Speed_knot": "51",
     "WTC": "Light"
   },
- "DHC6":{
+  "DHC6": {
     "Code": "DHC6",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada Twin Otter",
@@ -1961,7 +1970,7 @@
     "Approach_Speed_knot": "74",
     "WTC": "Light"
   },
- "DHC7":{
+  "DHC7": {
     "Code": "DHC7",
     "Manufacturer": "DEHAVILLAND CANADA",
     "Name": "DeHavilland Canada DHC-7",
@@ -1970,7 +1979,7 @@
     "Approach_Speed_knot": "83",
     "WTC": "Medium"
   },
- "DV20":{
+  "DV20": {
     "Code": "DV20",
     "Manufacturer": "DIAMOND",
     "Name": "Diamond 20 Katana",
@@ -1979,7 +1988,7 @@
     "Approach_Speed_knot": "59",
     "WTC": "Light"
   },
- "E110":{
+  "E110": {
     "Code": "E110",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer EMB110 Bandeirante",
@@ -1988,7 +1997,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "E120":{
+  "E120": {
     "Code": "E120",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer Brasilia EMB 120",
@@ -1997,7 +2006,7 @@
     "Approach_Speed_knot": "113",
     "WTC": "Medium"
   },
- "E135":{
+  "E135": {
     "Code": "E135",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer ERJ 135/140/Legacy",
@@ -2006,7 +2015,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E145":{
+  "E145": {
     "Code": "E145",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer ERJ-145",
@@ -2015,7 +2024,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E170":{
+  "E170": {
     "Code": "E170",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 170",
@@ -2024,7 +2033,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E190":{
+  "E190": {
     "Code": "E190",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 190",
@@ -2033,7 +2042,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E195":{
+  "E195": {
     "Code": "E195",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 195",
@@ -2042,7 +2051,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "E290":{
+  "E290": {
     "Code": "E290",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 190-E2",
@@ -2051,7 +2060,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "E295":{
+  "E295": {
     "Code": "E295",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 195-E2",
@@ -2060,7 +2069,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Medium"
   },
- "E35L":{
+  "E35L": {
     "Code": "E35L",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 135BJ Legacy 600",
@@ -2069,7 +2078,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E45X":{
+  "E45X": {
     "Code": "E45X",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer ERJ 145 XR",
@@ -2078,7 +2087,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "E50P":{
+  "E50P": {
     "Code": "E50P",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 500 Phenom 100",
@@ -2087,7 +2096,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "E545":{
+  "E545": {
     "Code": "E545",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer EMB-545 Legacy 450",
@@ -2096,7 +2105,7 @@
     "Approach_Speed_knot": "111",
     "WTC": "Medium"
   },
- "E550":{
+  "E550": {
     "Code": "E550",
     "Manufacturer": "EMBRAER",
     "Name": "Legacy 500/Praetor 600",
@@ -2105,7 +2114,7 @@
     "Approach_Speed_knot": "113",
     "WTC": "Medium"
   },
- "E55P":{
+  "E55P": {
     "Code": "E55P",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer Phenom 300",
@@ -2114,7 +2123,7 @@
     "Approach_Speed_knot": "116",
     "WTC": "Medium"
   },
- "E75L":{
+  "E75L": {
     "Code": "E75L",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 175 long wing",
@@ -2123,7 +2132,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "E75S":{
+  "E75S": {
     "Code": "E75S",
     "Manufacturer": "EMBRAER",
     "Name": "Embraer 175 short wing",
@@ -2132,7 +2141,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "EA50":{
+  "EA50": {
     "Code": "EA50",
     "Manufacturer": "ECLIPSE",
     "Name": "Eclipse 500",
@@ -2141,7 +2150,7 @@
     "Approach_Speed_knot": "91",
     "WTC": "Light"
   },
- "ERCO":{
+  "ERCO": {
     "Code": "ERCO",
     "Manufacturer": "ERCO",
     "Name": "Ercoupe 415",
@@ -2150,7 +2159,7 @@
     "Approach_Speed_knot": "55",
     "WTC": "Light"
   },
- "EVOT":{
+  "EVOT": {
     "Code": "EVOT",
     "Manufacturer": "LANCAIR",
     "Name": "Lancair Evolution Turbine",
@@ -2159,7 +2168,7 @@
     "Approach_Speed_knot": "79",
     "WTC": "Light"
   },
- "":{
+  "F15": {
     "Code": "F15",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing F-15 Eagle",
@@ -2168,7 +2177,7 @@
     "Approach_Speed_knot": "192",
     "WTC": "Medium"
   },
- "F16":{
+  "F16": {
     "Code": "F16",
     "Manufacturer": "LOCKHEED-GENERAL DYNAMICS",
     "Name": "Lockheed F-16 Fighting Falcon",
@@ -2177,7 +2186,7 @@
     "Approach_Speed_knot": "160",
     "WTC": "Medium"
   },
- "F18H":{
+  "F18H": {
     "Code": "F18H",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "F/A 18 Hornet",
@@ -2186,7 +2195,7 @@
     "Approach_Speed_knot": "134",
     "WTC": "Medium"
   },
- "F18S":{
+  "F18S": {
     "Code": "F18S",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "FA-18E/F Super Hornet",
@@ -2195,7 +2204,7 @@
     "Approach_Speed_knot": "134",
     "WTC": "Medium"
   },
- "F22":{
+  "F22": {
     "Code": "F22",
     "Manufacturer": "LOCKHEED",
     "Name": "Lockheed Martin L-645 Raptor",
@@ -2204,7 +2213,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Medium"
   },
- "F2TH":{
+  "F2TH": {
     "Code": "F2TH",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon 2000",
@@ -2213,7 +2222,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "F406":{
+  "F406": {
     "Code": "F406",
     "Manufacturer": "REIMS-CESSNA",
     "Name": "Reims-Cessna F406 Caravan II",
@@ -2222,7 +2231,7 @@
     "Approach_Speed_knot": "103",
     "WTC": "Light"
   },
- "F900":{
+  "F900": {
     "Code": "F900",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon 900",
@@ -2231,7 +2240,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "FA10":{
+  "FA10": {
     "Code": "FA10",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon/Mystère 10",
@@ -2240,7 +2249,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Medium"
   },
- "FA20":{
+  "FA20": {
     "Code": "FA20",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon/Mystère 20",
@@ -2249,7 +2258,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Medium"
   },
- "FA50":{
+  "FA50": {
     "Code": "FA50",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon/Mystère 50",
@@ -2258,7 +2267,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "FA7X":{
+  "FA7X": {
     "Code": "FA7X",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon 7X",
@@ -2267,7 +2276,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "FA8X":{
+  "FA8X": {
     "Code": "FA8X",
     "Manufacturer": "DASSAULT",
     "Name": "Dassault Falcon 8X",
@@ -2276,7 +2285,7 @@
     "Approach_Speed_knot": "106",
     "WTC": "Medium"
   },
- "FDCT":{
+  "FDCT": {
     "Code": "FDCT",
     "Manufacturer": "FLIGHT DESIGN",
     "Name": "Flight Design CT",
@@ -2285,7 +2294,7 @@
     "Approach_Speed_knot": "51",
     "WTC": "Light"
   },
- "G150":{
+  "G150": {
     "Code": "G150",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream G150",
@@ -2294,7 +2303,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "G164":{
+  "G164": {
     "Code": "G164",
     "Manufacturer": "GRUMMAN AMERICAN ",
     "Name": "Grumman American G164",
@@ -2303,7 +2312,7 @@
     "Approach_Speed_knot": "79",
     "WTC": "Light"
   },
- "G280":{
+  "G280": {
     "Code": "G280",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream G280",
@@ -2312,7 +2321,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "GA5C":{
+  "GA5C": {
     "Code": "GA5C",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream Aerospace Gulfstream G7-G500",
@@ -2321,7 +2330,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "GA6C":{
+  "GA6C": {
     "Code": "GA6C",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream Aerospace Gulfstream G7-G600",
@@ -2330,7 +2339,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Medium"
   },
- "GA7":{
+  "GA7": {
     "Code": "GA7",
     "Manufacturer": "GULFSTREAM AMERICAN - GRUMMAN AMERICAN",
     "Name": "Gulfstream American GA7",
@@ -2339,7 +2348,7 @@
     "Approach_Speed_knot": "82",
     "WTC": "Light"
   },
- "GALX":{
+  "GALX": {
     "Code": "GALX",
     "Manufacturer": "GULFSTREAM AEROSPACE-IAI",
     "Name": "IAI 1126 Galaxy/Gulfstream G200",
@@ -2348,7 +2357,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "GC1":{
+  "GC1": {
     "Code": "GC1",
     "Manufacturer": "GLOBE",
     "Name": "Globe GC-1 Swift",
@@ -2357,7 +2366,7 @@
     "Approach_Speed_knot": "48",
     "WTC": "Light"
   },
- "GL5T":{
+  "GL5T": {
     "Code": "GL5T",
     "Manufacturer": "BOMBARDIER",
     "Name": "Bombardier BD-700 Global 5000",
@@ -2366,7 +2375,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "GL7T":{
+  "GL7T": {
     "Code": "GL7T",
     "Manufacturer": "BOMBARDIER",
     "Name": "Bombardier BD-700 Global 7500",
@@ -2375,7 +2384,7 @@
     "Approach_Speed_knot": "118",
     "WTC": "Medium"
   },
- "GLEX":{
+  "GLEX": {
     "Code": "GLEX",
     "Manufacturer": "BOMBARDIER",
     "Name": "Bombardier BD-700 Global Express",
@@ -2384,7 +2393,7 @@
     "Approach_Speed_knot": "131",
     "WTC": "Medium"
   },
- "GLF2":{
+  "GLF2": {
     "Code": "GLF2",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream II",
@@ -2393,7 +2402,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "GLF3":{
+  "GLF3": {
     "Code": "GLF3",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream III",
@@ -2402,7 +2411,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "GLF4":{
+  "GLF4": {
     "Code": "GLF4",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream IV/G400",
@@ -2411,7 +2420,7 @@
     "Approach_Speed_knot": "150",
     "WTC": "Medium"
   },
- "GLF5":{
+  "GLF5": {
     "Code": "GLF5",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream V/G500",
@@ -2420,7 +2429,7 @@
     "Approach_Speed_knot": "145",
     "WTC": "Medium"
   },
- "GLF6":{
+  "GLF6": {
     "Code": "GLF6",
     "Manufacturer": "GULFSTREAM AEROSPACE",
     "Name": "Gulfstream G650",
@@ -2429,7 +2438,7 @@
     "Approach_Speed_knot": "110",
     "WTC": "Medium"
   },
- "H25A":{
+  "H25A": {
     "Code": "H25A",
     "Manufacturer": "HAWKER SIDDELEY",
     "Name": "HS 125-1/2/3/400/600",
@@ -2438,7 +2447,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "H25B":{
+  "H25B": {
     "Code": "H25B",
     "Manufacturer": "BRITISH AEROSPACE - HAWKER SIDDELEY",
     "Name": "BAe HS 125/700-800/Hawker 800",
@@ -2447,7 +2456,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Medium"
   },
- "H25C":{
+  "H25C": {
     "Code": "H25C",
     "Manufacturer": "BRITISH AEROSPACE RAYTHEON",
     "Name": "BAe/Raytheon HS 125-1000",
@@ -2456,7 +2465,7 @@
     "Approach_Speed_knot": "132",
     "WTC": "Medium"
   },
- "HA4T":{
+  "HA4T": {
     "Code": "HA4T",
     "Manufacturer": "HAWKER",
     "Name": "Hawker 4000",
@@ -2465,7 +2474,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "HAWK":{
+  "HAWK": {
     "Code": "HAWK",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe T-45 Goshawk",
@@ -2474,7 +2483,7 @@
     "Approach_Speed_knot": "139",
     "WTC": "Medium"
   },
- "HDJT":{
+  "HDJT": {
     "Code": "HDJT",
     "Manufacturer": "HONDA",
     "Name": "HONDA HA-420 HondaJet",
@@ -2483,7 +2492,7 @@
     "Approach_Speed_knot": "111",
     "WTC": "Light"
   },
- "HUSK":{
+  "HUSK": {
     "Code": "HUSK",
     "Manufacturer": "AVIAT",
     "Name": "AVIAT Huskey ",
@@ -2492,7 +2501,7 @@
     "Approach_Speed_knot": "60",
     "WTC": "Light"
   },
- "IL76":{
+  "IL76": {
     "Code": "IL76",
     "Manufacturer": "ILYUSHIN",
     "Name": "Ilyushin IL 76",
@@ -2501,7 +2510,7 @@
     "Approach_Speed_knot": "119",
     "WTC": "Heavy"
   },
- "J328":{
+  "J328": {
     "Code": "J328",
     "Manufacturer": "FAIRCHILD DORNIER",
     "Name": "Fairchild Dornier 328 Jet",
@@ -2510,7 +2519,7 @@
     "Approach_Speed_knot": "115",
     "WTC": "Medium"
   },
- "JS31":{
+  "JS31": {
     "Code": "JS31",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe 3100 Jetstream 31",
@@ -2519,7 +2528,7 @@
     "Approach_Speed_knot": "115",
     "WTC": "Light/Medium"
   },
- "JS32":{
+  "JS32": {
     "Code": "JS32",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe Jetstream super 31",
@@ -2528,7 +2537,7 @@
     "Approach_Speed_knot": "109",
     "WTC": "Medium"
   },
- "JS41":{
+  "JS41": {
     "Code": "JS41",
     "Manufacturer": "BRITISH AEROSPACE",
     "Name": "BAe Jetstream 41",
@@ -2537,7 +2546,7 @@
     "Approach_Speed_knot": "131",
     "WTC": "Medium"
   },
- "K35R":{
+  "K35R": {
     "Code": "K35R",
     "Manufacturer": "BOEING",
     "Name": "Boeing KC-135 Stratotanker",
@@ -2546,7 +2555,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Heavy"
   },
- "KODI":{
+  "KODI": {
     "Code": "KODI",
     "Manufacturer": "QUEST",
     "Name": "Quest Kodiak",
@@ -2555,7 +2564,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "L29B":{
+  "L29B": {
     "Code": "L29B",
     "Manufacturer": "LOCKHEED",
     "Name": "Lockheed Jetstar 2/731",
@@ -2564,7 +2573,7 @@
     "Approach_Speed_knot": "97",
     "WTC": "Medium"
   },
- "L5":{
+  "L5": {
     "Code": "L5",
     "Manufacturer": "STINTSON",
     "Name": "Stintson L5 Sentinel",
@@ -2573,7 +2582,7 @@
     "Approach_Speed_knot": "58",
     "WTC": "Light"
   },
- "L8":{
+  "L8": {
     "Code": "L8",
     "Manufacturer": "LUSCOMBE",
     "Name": "Luscombe 8",
@@ -2582,7 +2591,7 @@
     "Approach_Speed_knot": "46",
     "WTC": "Light"
   },
- "LA4":{
+  "LA4": {
     "Code": "LA4",
     "Manufacturer": "LAKE",
     "Name": "Lake LA-4",
@@ -2591,7 +2600,7 @@
     "Approach_Speed_knot": "51",
     "WTC": "Light"
   },
- "LJ23":{
+  "LJ23": {
     "Code": "LJ23",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 23",
@@ -2600,7 +2609,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Light"
   },
- "LJ24":{
+  "LJ24": {
     "Code": "LJ24",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 24",
@@ -2609,7 +2618,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Light"
   },
- "LJ25":{
+  "LJ25": {
     "Code": "LJ25",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 25",
@@ -2618,7 +2627,7 @@
     "Approach_Speed_knot": "137",
     "WTC": "Light"
   },
- "LJ31":{
+  "LJ31": {
     "Code": "LJ31",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 31",
@@ -2627,7 +2636,7 @@
     "Approach_Speed_knot": "120",
     "WTC": "Medium"
   },
- "LJ35":{
+  "LJ35": {
     "Code": "LJ35",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 35/36",
@@ -2636,7 +2645,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "LJ40":{
+  "LJ40": {
     "Code": "LJ40",
     "Manufacturer": "LEARJET",
     "Name": "Learjet 40",
@@ -2645,7 +2654,7 @@
     "Approach_Speed_knot": "123",
     "WTC": "Medium"
   },
- "LJ45":{
+  "LJ45": {
     "Code": "LJ45",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 45",
@@ -2654,7 +2663,7 @@
     "Approach_Speed_knot": "123",
     "WTC": "Medium"
   },
- "LJ55":{
+  "LJ55": {
     "Code": "LJ55",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 55",
@@ -2663,7 +2672,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "LJ60":{
+  "LJ60": {
     "Code": "LJ60",
     "Manufacturer": "LEARJET",
     "Name": "Bombardier Learjet 60",
@@ -2672,7 +2681,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "LJ70":{
+  "LJ70": {
     "Code": "LJ70",
     "Manufacturer": "LEARJET",
     "Name": "Learjet 70",
@@ -2681,7 +2690,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "LJ75":{
+  "LJ75": {
     "Code": "LJ75",
     "Manufacturer": "LEARJET",
     "Name": "Learjet 75",
@@ -2690,7 +2699,7 @@
     "Approach_Speed_knot": "125",
     "WTC": "Medium"
   },
- "LNC4":{
+  "LNC4": {
     "Code": "LNC4",
     "Manufacturer": "LANCAIR",
     "Name": "Lancair IV",
@@ -2699,7 +2708,7 @@
     "Approach_Speed_knot": "81",
     "WTC": "Light"
   },
- "LNP4":{
+  "LNP4": {
     "Code": "LNP4",
     "Manufacturer": "LANCAIR",
     "Name": "Lancair PropJet IV",
@@ -2708,7 +2717,7 @@
     "Approach_Speed_knot": "81",
     "WTC": "Light"
   },
- "M20P":{
+  "M20P": {
     "Code": "M20P",
     "Manufacturer": "MOONEY",
     "Name": "Mooney M-20C Ranger",
@@ -2717,7 +2726,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "M20T":{
+  "M20T": {
     "Code": "M20T",
     "Manufacturer": "MOONEY",
     "Name": "Mooney M20K Encore/M20M Bravo",
@@ -2726,7 +2735,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "M5":{
+  "M5": {
     "Code": "M5",
     "Manufacturer": "MAULE",
     "Name": "Maule M-5",
@@ -2735,7 +2744,7 @@
     "Approach_Speed_knot": "43",
     "WTC": "Light"
   },
- "MD11":{
+  "MD11": {
     "Code": "MD11",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 11",
@@ -2744,7 +2753,7 @@
     "Approach_Speed_knot": "158",
     "WTC": "Heavy"
   },
- "MD81":{
+  "MD81": {
     "Code": "MD81",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 81",
@@ -2753,7 +2762,7 @@
     "Approach_Speed_knot": "134",
     "WTC": "Medium"
   },
- "MD82":{
+  "MD82": {
     "Code": "MD82",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 82",
@@ -2762,7 +2771,7 @@
     "Approach_Speed_knot": "135",
     "WTC": "Medium"
   },
- "MD83":{
+  "MD83": {
     "Code": "MD83",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 83",
@@ -2771,7 +2780,7 @@
     "Approach_Speed_knot": "144",
     "WTC": "Medium"
   },
- "MD87":{
+  "MD87": {
     "Code": "MD87",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 87",
@@ -2780,7 +2789,7 @@
     "Approach_Speed_knot": "134",
     "WTC": "Medium"
   },
- "MD88":{
+  "MD88": {
     "Code": "MD88",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 88",
@@ -2789,7 +2798,7 @@
     "Approach_Speed_knot": "130",
     "WTC": "Medium"
   },
- "MD90":{
+  "MD90": {
     "Code": "MD90",
     "Manufacturer": "BOEING-MCDONNELL DOUGLAS",
     "Name": "Boeing (Douglas) MD 90",
@@ -2798,7 +2807,7 @@
     "Approach_Speed_knot": "141",
     "WTC": "Medium"
   },
- "MU2":{
+  "MU2": {
     "Code": "MU2",
     "Manufacturer": "MITSUBISHI",
     "Name": "Mitsubishi Marquise/Solitaire",
@@ -2807,7 +2816,7 @@
     "Approach_Speed_knot": "105",
     "WTC": "Light"
   },
- "MU30":{
+  "MU30": {
     "Code": "MU30",
     "Manufacturer": "MITSUBISHI",
     "Name": "Mitsubishi Diamond/MU300 Diamond",
@@ -2816,7 +2825,7 @@
     "Approach_Speed_knot": "118",
     "WTC": "Medium"
   },
- "NAVI":{
+  "NAVI": {
     "Code": "NAVI",
     "Manufacturer": "NORTH AMERICAN-RYAN",
     "Name": "North American Navion",
@@ -2825,7 +2834,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "P180":{
+  "P180": {
     "Code": "P180",
     "Manufacturer": "PIAGGIO",
     "Name": "Piaggio P-180 Avanti",
@@ -2834,7 +2843,7 @@
     "Approach_Speed_knot": "121",
     "WTC": "Light"
   },
- "P210":{
+  "P210": {
     "Code": "P210",
     "Manufacturer": "RILEY-CESSNA",
     "Name": "Riley Super P210",
@@ -2843,7 +2852,7 @@
     "Approach_Speed_knot": "75",
     "WTC": "Light"
   },
- "P28A":{
+  "P28A": {
     "Code": "P28A",
     "Manufacturer": "PIPER",
     "Name": "Piper Cherokee",
@@ -2852,7 +2861,7 @@
     "Approach_Speed_knot": "70",
     "WTC": "Light"
   },
- "P28B":{
+  "P28B": {
     "Code": "P28B",
     "Manufacturer": "PIPER",
     "Name": "Piper Turbo Dakota",
@@ -2861,7 +2870,7 @@
     "Approach_Speed_knot": "62",
     "WTC": "Light"
   },
- "P28R":{
+  "P28R": {
     "Code": "P28R",
     "Manufacturer": "PIPER",
     "Name": "Cherokee Arrow",
@@ -2870,7 +2879,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "P28T":{
+  "P28T": {
     "Code": "P28T",
     "Manufacturer": "PIPER",
     "Name": "Piper 28T Arrow 4",
@@ -2879,7 +2888,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "P3":{
+  "P3": {
     "Code": "P3",
     "Manufacturer": "LOCKHEED",
     "Name": "Lockheed P-3 Orion",
@@ -2888,7 +2897,7 @@
     "Approach_Speed_knot": "134",
     "WTC": "Medium"
   },
- "P32R":{
+  "P32R": {
     "Code": "P32R",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-32R Lance/ Saratoga SP",
@@ -2897,7 +2906,7 @@
     "Approach_Speed_knot": "80",
     "WTC": "Light"
   },
- "P32T":{
+  "P32T": {
     "Code": "P32T",
     "Manufacturer": "PIPER",
     "Name": "Piper 32T Turbo Lance 2",
@@ -2906,7 +2915,7 @@
     "Approach_Speed_knot": "80",
     "WTC": "Light"
   },
- "P46T":{
+  "P46T": {
     "Code": "P46T",
     "Manufacturer": "PIPER",
     "Name": "Piper Malibu Meridian",
@@ -2915,7 +2924,7 @@
     "Approach_Speed_knot": "75",
     "WTC": "Light"
   },
- "P51":{
+  "P51": {
     "Code": "P51",
     "Manufacturer": "NORTH AMERICAN",
     "Name": "North American Mustang",
@@ -2924,7 +2933,7 @@
     "Approach_Speed_knot": "113",
     "WTC": "Light"
   },
- "P68":{
+  "P68": {
     "Code": "P68",
     "Manufacturer": "VULCAN- PARTEVANIA",
     "Name": "Vulcan Air P68",
@@ -2933,7 +2942,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "P750":{
+  "P750": {
     "Code": "P750",
     "Manufacturer": "PACIFIC AEROSPACE",
     "Name": "Pacific Aerospace P-750 Xstol",
@@ -2942,7 +2951,7 @@
     "Approach_Speed_knot": "72",
     "WTC": "Light"
   },
- "P8":{
+  "P8": {
     "Code": "P8",
     "Manufacturer": "BOEING",
     "Name": "Boeing P-8 Poseidon",
@@ -2951,7 +2960,7 @@
     "Approach_Speed_knot": "180",
     "WTC": "Medium"
   },
- "PA11":{
+  "PA11": {
     "Code": "PA11",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-11 Cub Special",
@@ -2960,7 +2969,7 @@
     "Approach_Speed_knot": "46",
     "WTC": "Light"
   },
- "PA12":{
+  "PA12": {
     "Code": "PA12",
     "Manufacturer": "PIPER",
     "Name": "Piper 12 Supercruiser",
@@ -2969,7 +2978,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "PA16":{
+  "PA16": {
     "Code": "PA16",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-16 Clipper",
@@ -2978,7 +2987,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "PA18":{
+  "PA18": {
     "Code": "PA18",
     "Manufacturer": "PIPER",
     "Name": "Piper 18 Super Cub",
@@ -2987,7 +2996,7 @@
     "Approach_Speed_knot": "48",
     "WTC": "Light"
   },
- "PA20":{
+  "PA20": {
     "Code": "PA20",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-20 Pacer",
@@ -2996,7 +3005,7 @@
     "Approach_Speed_knot": "55",
     "WTC": "Light"
   },
- "PA22":{
+  "PA22": {
     "Code": "PA22",
     "Manufacturer": "PIPER",
     "Name": "Piper 22 Tri-Pacer",
@@ -3005,7 +3014,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "PA23":{
+  "PA23": {
     "Code": "PA23",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-23-150/160 Apache",
@@ -3014,7 +3023,7 @@
     "Approach_Speed_knot": "85",
     "WTC": "Light"
   },
- "PA24":{
+  "PA24": {
     "Code": "PA24",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-24 Comanche",
@@ -3023,7 +3032,7 @@
     "Approach_Speed_knot": "75",
     "WTC": "Light"
   },
- "PA25":{
+  "PA25": {
     "Code": "PA25",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-25 Pawnee",
@@ -3032,7 +3041,7 @@
     "Approach_Speed_knot": "69",
     "WTC": "Light"
   },
- "PA27":{
+  "PA27": {
     "Code": "PA27",
     "Manufacturer": "PIPER",
     "Name": "Piper Aztec",
@@ -3041,7 +3050,7 @@
     "Approach_Speed_knot": "91",
     "WTC": "Light"
   },
- "PA30":{
+  "PA30": {
     "Code": "PA30",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-30 Turbo Twin Comanche/Turbo Twin Comanche",
@@ -3050,7 +3059,7 @@
     "Approach_Speed_knot": "76",
     "WTC": "Light"
   },
- "PA31":{
+  "PA31": {
     "Code": "PA31",
     "Manufacturer": "PIPER",
     "Name": "Piper Navajo PA-31",
@@ -3059,7 +3068,7 @@
     "Approach_Speed_knot": "95",
     "WTC": "Light"
   },
- "PA32":{
+  "PA32": {
     "Code": "PA32",
     "Manufacturer": "PIPER",
     "Name": "Piper Cherokee Six",
@@ -3068,7 +3077,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "PA34":{
+  "PA34": {
     "Code": "PA34",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-34 Seneca",
@@ -3077,7 +3086,7 @@
     "Approach_Speed_knot": "81",
     "WTC": "Light"
   },
- "PA36":{
+  "PA36": {
     "Code": "PA36",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-36 Pawnee Brave",
@@ -3086,7 +3095,7 @@
     "Approach_Speed_knot": "54",
     "WTC": "Light"
   },
- "PA38":{
+  "PA38": {
     "Code": "PA38",
     "Manufacturer": "PIPER",
     "Name": "Piper Tomahawk PA38",
@@ -3095,7 +3104,7 @@
     "Approach_Speed_knot": "60",
     "WTC": "Light"
   },
- "PA44":{
+  "PA44": {
     "Code": "PA44",
     "Manufacturer": "PIPER",
     "Name": "Piper Seminole",
@@ -3104,7 +3113,7 @@
     "Approach_Speed_knot": "66",
     "WTC": "Light"
   },
- "PA46":{
+  "PA46": {
     "Code": "PA46",
     "Manufacturer": "PIPER",
     "Name": "Piper Malibu",
@@ -3113,7 +3122,7 @@
     "Approach_Speed_knot": "75",
     "WTC": "Light"
   },
- "PAT4":{
+  "PAT4": {
     "Code": "PAT4",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-31T3-500 T-1040",
@@ -3122,7 +3131,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "PAY1":{
+  "PAY1": {
     "Code": "PAY1",
     "Manufacturer": "PIPER",
     "Name": "Piper Cheyenne 1",
@@ -3131,7 +3140,7 @@
     "Approach_Speed_knot": "92",
     "WTC": "Light"
   },
- "PAY2":{
+  "PAY2": {
     "Code": "PAY2",
     "Manufacturer": "PIPER",
     "Name": "Piper Cheyenne 2",
@@ -3140,7 +3149,7 @@
     "Approach_Speed_knot": "100",
     "WTC": "Light"
   },
- "PAY3":{
+  "PAY3": {
     "Code": "PAY3",
     "Manufacturer": "PIPER",
     "Name": "Piper PA-42-720 Cheyenne 3",
@@ -3149,7 +3158,7 @@
     "Approach_Speed_knot": "113",
     "WTC": "Light"
   },
- "PAY4":{
+  "PAY4": {
     "Code": "PAY4",
     "Manufacturer": "PIPER",
     "Name": "Piper Cheyenne 400",
@@ -3158,7 +3167,7 @@
     "Approach_Speed_knot": "109",
     "WTC": "Light"
   },
- "PC12":{
+  "PC12": {
     "Code": "PC12",
     "Manufacturer": "PILATUS",
     "Name": "Pilatus PC-12",
@@ -3167,7 +3176,7 @@
     "Approach_Speed_knot": "85",
     "WTC": "Light"
   },
- "PC24":{
+  "PC24": {
     "Code": "PC24",
     "Manufacturer": "PILATUS",
     "Name": "Pilatus PC-24",
@@ -3176,7 +3185,7 @@
     "Approach_Speed_knot": "107",
     "WTC": "Medium"
   },
- "PRM1":{
+  "PRM1": {
     "Code": "PRM1",
     "Manufacturer": "RAYTHEON- HAWKER BEECHCRAFT",
     "Name": "Raytheon Premier 1/390 Premier 1",
@@ -3185,7 +3194,7 @@
     "Approach_Speed_knot": "120",
     "WTC": "Light"
   },
- "R721":{
+  "R721": {
     "Code": "R721",
     "Manufacturer": "BOEING",
     "Name": "Boeing 727-100RE Super 27",
@@ -3194,7 +3203,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "R722":{
+  "R722": {
     "Code": "R722",
     "Manufacturer": "BOEING",
     "Name": "Boeing 727-200RE Super 27",
@@ -3203,7 +3212,7 @@
     "Approach_Speed_knot": "136",
     "WTC": "Medium"
   },
- "RJ1H":{
+  "RJ1H": {
     "Code": "RJ1H",
     "Manufacturer": "AVRO",
     "Name": "Avro RJ-100 Avroliner",
@@ -3212,7 +3221,7 @@
     "Approach_Speed_knot": "123",
     "WTC": "Medium"
   },
- "RJ85":{
+  "RJ85": {
     "Code": "RJ85",
     "Manufacturer": "AVRO",
     "Name": "Avro RJ-85 Avroliner",
@@ -3221,7 +3230,7 @@
     "Approach_Speed_knot": "122",
     "WTC": "Medium"
   },
- "RV12":{
+  "RV12": {
     "Code": "RV12",
     "Manufacturer": "VAN'S ",
     "Name": "Van's RV-12",
@@ -3230,7 +3239,7 @@
     "Approach_Speed_knot": "53",
     "WTC": "Light"
   },
- "S108":{
+  "S108": {
     "Code": "S108",
     "Manufacturer": "STINSON",
     "Name": "Stinson 108 Voyager",
@@ -3239,7 +3248,7 @@
     "Approach_Speed_knot": "70",
     "WTC": "Light"
   },
- "S22T":{
+  "S22T": {
     "Code": "S22T",
     "Manufacturer": "CIRRUS",
     "Name": "Cirrus SR-22 Turbo",
@@ -3248,7 +3257,7 @@
     "Approach_Speed_knot": "77",
     "WTC": "Light"
   },
- "SB20":{
+  "SB20": {
     "Code": "SB20",
     "Manufacturer": "SAAB",
     "Name": "Saab 2000",
@@ -3257,7 +3266,7 @@
     "Approach_Speed_knot": "122",
     "WTC": "Medium"
   },
- "SBR1":{
+  "SBR1": {
     "Code": "SBR1",
     "Manufacturer": "NORTH AMERICAN ROCKWELL",
     "Name": "North American Rockwell Sabre 40/60",
@@ -3266,7 +3275,7 @@
     "Approach_Speed_knot": "126",
     "WTC": "Medium"
   },
- "SBR2":{
+  "SBR2": {
     "Code": "SBR2",
     "Manufacturer": "NORTH AMERICAN ROCKWELL",
     "Name": "North American Rockwell Sabre 75",
@@ -3275,7 +3284,7 @@
     "Approach_Speed_knot": "128",
     "WTC": "Medium"
   },
- "SC7":{
+  "SC7": {
     "Code": "SC7",
     "Manufacturer": "SHORT",
     "Name": "Short Skyvan SC7",
@@ -3284,7 +3293,7 @@
     "Approach_Speed_knot": "91",
     "WTC": "Light"
   },
- "SF34":{
+  "SF34": {
     "Code": "SF34",
     "Manufacturer": "SAAB",
     "Name": "Saab SF 340",
@@ -3293,7 +3302,7 @@
     "Approach_Speed_knot": "124",
     "WTC": "Medium"
   },
- "SF50":{
+  "SF50": {
     "Code": "SF50",
     "Manufacturer": "CIRRUS",
     "Name": "Cirrus Vision SF50",
@@ -3302,7 +3311,7 @@
     "Approach_Speed_knot": "87",
     "WTC": "Light"
   },
- "SH33":{
+  "SH33": {
     "Code": "SH33",
     "Manufacturer": "SHORT",
     "Name": "Shorts 330",
@@ -3311,7 +3320,7 @@
     "Approach_Speed_knot": "96",
     "WTC": "Medium"
   },
- "SH36":{
+  "SH36": {
     "Code": "SH36",
     "Manufacturer": "SHORT",
     "Name": "Shorts 360",
@@ -3320,7 +3329,7 @@
     "Approach_Speed_knot": "104",
     "WTC": "Medium"
   },
- "SR20":{
+  "SR20": {
     "Code": "SR20",
     "Manufacturer": "CIRRUS",
     "Name": "Cirrus SR-20",
@@ -3329,7 +3338,7 @@
     "Approach_Speed_knot": "74",
     "WTC": "Light"
   },
- "SR22":{
+  "SR22": {
     "Code": "SR22",
     "Manufacturer": "CIRRUS",
     "Name": "Cirrus SR 22",
@@ -3338,7 +3347,7 @@
     "Approach_Speed_knot": "78",
     "WTC": "Light"
   },
- "SU95":{
+  "SU95": {
     "Code": "SU95",
     "Manufacturer": "SUKHOI",
     "Name": "SUKHOI Superjet 100-95",
@@ -3347,7 +3356,7 @@
     "Approach_Speed_knot": "140",
     "WTC": "Medium"
   },
- "SW3":{
+  "SW3": {
     "Code": "SW3",
     "Manufacturer": "FAIRCHILD SWEARINGEN",
     "Name": "Fairchild Swearingen SA-226T/TB Merlin 3",
@@ -3356,7 +3365,7 @@
     "Approach_Speed_knot": "105",
     "WTC": "Light"
   },
- "SW4":{
+  "SW4": {
     "Code": "SW4",
     "Manufacturer": "FAIRCHILD SWEARINGEN",
     "Name": "Swearingen SA-227AT Merlin 4",
@@ -3365,7 +3374,7 @@
     "Approach_Speed_knot": "112",
     "WTC": "Light/Medium"
   },
- "T210":{
+  "T210": {
     "Code": "T210",
     "Manufacturer": "CESSNA",
     "Name": "Cessna T210 Turbo Centurion",
@@ -3374,7 +3383,7 @@
     "Approach_Speed_knot": "73",
     "WTC": "Light"
   },
- "T28":{
+  "T28": {
     "Code": "T28",
     "Manufacturer": "NORTH AMERICAN",
     "Name": "North American T-28 Trojan",
@@ -3383,7 +3392,7 @@
     "Approach_Speed_knot": "62",
     "WTC": "Light"
   },
- "T34P":{
+  "T34P": {
     "Code": "T34P",
     "Manufacturer": "BEECH",
     "Name": "Beech T-34/45 Mentor",
@@ -3392,7 +3401,7 @@
     "Approach_Speed_knot": "69",
     "WTC": "Light"
   },
- "T38":{
+  "T38": {
     "Code": "T38",
     "Manufacturer": "NORTHROP",
     "Name": "Northrop T-38 Talon",
@@ -3401,7 +3410,7 @@
     "Approach_Speed_knot": "160",
     "WTC": "Light"
   },
- "T6":{
+  "T6": {
     "Code": "T6",
     "Manufacturer": "NORTH AMERICAN",
     "Name": "North American T-6 Texan",
@@ -3410,7 +3419,7 @@
     "Approach_Speed_knot": "56",
     "WTC": "Light"
   },
- "TAYB":{
+  "TAYB": {
     "Code": "TAYB",
     "Manufacturer": "TAYLORCRAFT",
     "Name": "Taylorcraft BC",
@@ -3419,7 +3428,7 @@
     "Approach_Speed_knot": "50",
     "WTC": "Light"
   },
- "TB20":{
+  "TB20": {
     "Code": "TB20",
     "Manufacturer": "SOCATA",
     "Name": "Socata TB-20 Trinidad",
@@ -3428,7 +3437,7 @@
     "Approach_Speed_knot": "75",
     "WTC": "Light"
   },
- "TBM7":{
+  "TBM7": {
     "Code": "TBM7",
     "Manufacturer": "SOCATA",
     "Name": "Socata TBM-700/700A",
@@ -3437,7 +3446,7 @@
     "Approach_Speed_knot": "74",
     "WTC": "Light"
   },
- "TBM8":{
+  "TBM8": {
     "Code": "TBM8",
     "Manufacturer": "SOCATA",
     "Name": "Socata TBM-850",
@@ -3446,7 +3455,7 @@
     "Approach_Speed_knot": "85",
     "WTC": "Light"
   },
- "TBM9":{
+  "TBM9": {
     "Code": "TBM9",
     "Manufacturer": "SOCATA",
     "Name": "Socata TBM-900",
@@ -3455,7 +3464,7 @@
     "Approach_Speed_knot": "85",
     "WTC": "Light"
   },
- "TEX2":{
+  "TEX2": {
     "Code": "TEX2",
     "Manufacturer": "RAYTHEON",
     "Name": "Raytheon Texan 2",
@@ -3464,7 +3473,7 @@
     "Approach_Speed_knot": "103",
     "WTC": "Light"
   },
- "TOBA":{
+  "TOBA": {
     "Code": "TOBA",
     "Manufacturer": "SOCATA",
     "Name": "Socata TB-10 Tobago",
@@ -3473,7 +3482,7 @@
     "Approach_Speed_knot": "65",
     "WTC": "Light"
   },
- "V22":{
+  "V22": {
     "Code": "V22",
     "Manufacturer": "BELL-BOEING",
     "Name": "Bell V-22 Osprey",
@@ -3482,7 +3491,7 @@
     "Approach_Speed_knot": "N/A",
     "WTC": "Medium"
   },
- "WW24":{
+  "WW24": {
     "Code": "WW24",
     "Manufacturer": "IAI",
     "Name": "IAI 1124 Westwind",

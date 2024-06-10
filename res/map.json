@@ -488,5 +488,9 @@
       "BA8463",
       "LG4592"
     ]
+  },
+  "AirWar_": {
+    "arrivals": ["C130", "P3"],
+    "departures": [ "F16", "F22"]
   }
 }
