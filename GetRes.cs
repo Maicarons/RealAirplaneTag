@@ -8,23 +8,11 @@ public class GetRes
 {
     public string GetFromJson(string filePath)
     {
-        try
-        {
             // 使用StreamReader读取文件
             using (StreamReader reader = new StreamReader(filePath))
             {
                 return reader.ReadToEnd();
             }
-        }
-        catch (FileNotFoundException)
-        {
-            return "";
-        }
-        catch (Exception ex)
-        {
-            return "";
-        }
-        
     }
     public static string GetFromRes(string path)
     {

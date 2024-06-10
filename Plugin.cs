@@ -72,7 +72,7 @@ namespace RealAirplaneTag
 
     public class AircraftStatHelper : MonoBehaviour
     {
-        private  Vector3 _apScale;
+        private Vector3 _apScale;
         private Vector3 _plScale;
         private Dictionary<int, PlaneTag> planeID= new Dictionary<int, PlaneTag> { };
 
@@ -88,7 +88,6 @@ namespace RealAirplaneTag
             _apScale= m_Aircraft.AP.gameObject.transform.localScale;
              _plScale= m_Aircraft.AP.gameObject.transform.localScale;
             GameObject obj = Instantiate(new GameObject("Text"), m_Aircraft.transform, true);
-            
             m_Text = obj.AddComponent<TextMeshPro>();
             m_Text.fontSize = 2;
             m_Text.horizontalAlignment = HorizontalAlignmentOptions.Left;
