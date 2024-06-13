@@ -33,7 +33,7 @@ jobs:
         tag_name: ${{ github.ref }}
         release_name: ${{ github.ref }} Released
         draft: false
-        prerelease: false
+        prerelease: true
         
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
